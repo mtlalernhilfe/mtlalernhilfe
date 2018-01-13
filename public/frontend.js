@@ -1,4 +1,4 @@
-angular.module('fragenCtrl', []).controller('fragenCtrl', ['$scope', function ($scope) {
+angular.module('mainApp', []).controller('fragenCtrl', ['$scope', function ($scope) {
 
     $scope.fragenArray = [
         {
