@@ -12,17 +12,17 @@ module.exports = function (grunt) {
          * Erstellt daraus eine .js File je Projekt
          **************************************************************************************************/
 
-        concat: {
+        /*concat: {
             options: {
                 separator: '\r\n \n'
             },
             frontend: {
                 src: [
-                    'frontend/src/js/**/*.js'
+                    'frontend/src/js/!**!/!*.js'
                 ],
-                dest: 'public/frontend.js'
+                dest: 'public/js'
             }
-        },
+        },*/
 
         /**************************************************************************************************
          * copy
@@ -53,6 +53,12 @@ module.exports = function (grunt) {
                 src: '**/*',
                 dest: 'public/html',
                 expand: true
+            },
+            js: {
+                csd: 'js/',
+                src: '**/*',
+                dest: 'public/js',
+                expand: true
             }
         },
         watch: {
@@ -75,7 +81,7 @@ module.exports = function (grunt) {
     });
     grunt.registerTask('build', [
         'clean',
-        'concat:frontend',
+        // 'concat:frontend',
         'copy'
     ]);
 
