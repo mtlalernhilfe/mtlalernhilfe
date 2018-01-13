@@ -21,7 +21,8 @@
     "express-session": "^1.15.3",
     "path": "^0.12.7",
     "pug": "^2.0.0-rc.4",
-    "util": "^0.10.3"
+    "util": "^0.10.3",
+    "async": "^1.2.1",
   },
   "repository": {
     "type": "git",
@@ -45,6 +46,7 @@
     "grunt-git-deploy": "^0.3.1",
     "grunt-notify": "^0.4.5",
     "less-plugin-autoprefix": "*",
-    "load-grunt-tasks": "^3.5.2"
+    "load-grunt-tasks": "^3.5.2",
+    "async": "^1.2.1",
   }
 }
