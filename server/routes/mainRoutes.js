@@ -1,4 +1,4 @@
-module.exports = function (app,passport, Models) {
+module.exports = function (app) {
 
-    require('./jadeRoutes')(app, Models);
+    require('./jadeRoutes')(app);
 };

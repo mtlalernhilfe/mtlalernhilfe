@@ -45,7 +45,11 @@ async.waterfall([
         process.exit();
     } else if (process.env.NODE_ENV === 'production') {
         app.listen(process.env.PORT || 8080);
-        require('./server/routes/mainRoutes')(app);
+        app.get('/', function (req, res) {
+            res.render('index.pug', {
+                min: process.env.NODE_ENV === 'production' ? ".min" : ""
+            });
+        });
     } else {
         app.use(express.static('./'));
         require('./server/routes/mainRoutes')(app);
