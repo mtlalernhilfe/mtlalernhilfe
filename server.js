@@ -16,16 +16,12 @@ app.set('view engine', 'pug');
 app.set('views', path.join('server', 'views'));
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
-app.set('port', (process.env.PORT || 5000));
+app.set('port', (process.env.PORT || 8080));
 
 app.use(express.static(__dirname + '/public'));
 
 // views is directory for all template files
 app.set('views', __dirname + '/views');
-
-app.listen(app.get('port'), function() {
-    console.log('Node app is running on port', app.get('port'));
-});
 /**************************************************************************************************
  * Define Express Middlewares
  **************************************************************************************************/
@@ -44,7 +40,9 @@ async.waterfall([
         console.log("##############################################################".red);
         process.exit();
     } else if (process.env.NODE_ENV === 'production') {
-        app.listen(process.env.PORT || 8080);
+        app.listen(app.get('port'), function () {
+            console.log("app ist listening on port ", app.get('port'))
+        })
         app.get('/', function (req, res) {
             res.render('index.pug', {
                 min: process.env.NODE_ENV === 'production' ? ".min" : ""
