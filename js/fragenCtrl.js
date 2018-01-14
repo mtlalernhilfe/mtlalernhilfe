@@ -225,6 +225,9 @@ angular.module('mainApp', []).controller('fragenCtrl', ['$scope', function ($sco
                 $scope.antwortenFuerFrage.push(antwort);
             }
         })
+        $scope.antwortenFuerFrage.sort(function() {
+            return 0.5 - Math.random();
+        });
     }
 
     $scope.toggleFragenModus = function () {
