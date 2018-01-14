@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
 </head>
 <body ng-app="mainApp" ng-controller="fragenCtrl">
-<div ng-if="!fragenModus && !showUebersicht">
+<div ng-if="!fragenModus && !showUebersicht" style="height:100%">
     <div class="header">
         Oberkurs
     </div>
@@ -34,7 +34,7 @@
         </div>
     </a>
 </div>
-<div ng-if="fragenModus && !showUebersicht">
+<div ng-if="fragenModus && !showUebersicht" style="height:100%">
     <div class="header">
         {{fragenText}}
     </div>
@@ -48,7 +48,7 @@
     </div>
     <button ng-if="showWeiter" class="kachel" ng-click="nextFrage()">Weiter</button>
 </div>
-<div ng-if="!fragenModus && showUebersicht">
+<div ng-if="!fragenModus && showUebersicht" style="height:100%">
     <div class="col-md-12 kachel">
         Richtig beantwortet: {{richtigBeantwortet}}
     </div>

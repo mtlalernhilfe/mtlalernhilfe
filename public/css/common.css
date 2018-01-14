@@ -1,7 +1,11 @@
+html, body{
+    height: 100%;
+}
+
 .header{
     margin-top: 30px;
     padding-top: 50px;
-    height: 100px;
+    height: 25%;
     font-size: 40px;
     vertical-align: middle;
     text-align: center;
@@ -14,7 +18,7 @@
     font-size: 35px;
     color: white;
     margin-top: 20px;
-    height: 50px;
+    height: 20%;
     text-align: center;
 }
 a{
@@ -29,7 +33,7 @@ a{
 .antwort {
     font-size: 20px;
     float: left;
-    width: 40%;
+    width: 47%;
     height: 100px;
     margin: 10px 0 10px 20px;
     color: white;
