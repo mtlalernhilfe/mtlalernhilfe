@@ -11,7 +11,6 @@
     <div class="header">
         Oberkurs
     </div>
-    <a href="/" class="backbutton">Zurück</a>
 
     <a ng-click="setFach('oberkurs', 'haematologie')">
         <div class="col-md-12 kachel">
@@ -33,20 +32,23 @@
             Mikrobiologie
         </div>
     </a>
+    <button class="btn btn-success button_back">
+        <a href="/" class="backbutton">Zurück</a>
+    </button>
 </div>
 <div ng-if="fragenModus && !showUebersicht" style="height:100%">
     <div class="header">
         {{fragenText}}
     </div>
-    <a ng-click="toggleFragenModus()" class="backbutton">Abbrechen</a>
-    <div class="antworten_container">
-        <div ng-repeat="antwort in antwortenFuerFrage">
+    <div class="antworten_container" ng-if="antwortenFuerFrage">
+        <div ng-repeat="antwort in antwortenFuerFrage" class="antwort_inner">
             <div class="antwort" id="{{antwortenFuerFrage.indexOf(antwort)}}"
                  ng-click="checkAntwort(antwort, antwortenFuerFrage.indexOf(antwort))">{{antwort.antwortText}}
             </div>
         </div>
     </div>
-    <button ng-if="showWeiter" class="kachel" ng-click="nextFrage()">Weiter</button>
+    <button class="btn btn-success button_kachel" ng-click="toggleFragenModus()">Abbrechen</button>
+    <button ng-if="showWeiter" class="btn btn-success button_kachel" ng-click="nextFrage()">Weiter</button>
 </div>
 <div ng-if="!fragenModus && showUebersicht" style="height:100%">
     <div class="col-md-12 kachel">
@@ -58,7 +60,7 @@
     <div class="col-md-12 kachel">
         Fragen gesammt: {{falschBeantwortet + richtigBeantwortet}}
     </div>
-    <button class="kachel" ng-click="showHome()">Fertig</button>
+    <button class="btn btn-success button_back" ng-click="showHome()">Fertig</button>
 </div>
 <script type="text/javascript" src="../js/fragenCtrl.js"></script>
 </body>

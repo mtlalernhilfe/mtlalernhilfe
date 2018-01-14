@@ -1,42 +1,71 @@
-html, body{
+html, body {
     height: 100%;
 }
 
-.header{
-    margin-top: 30px;
-    padding-top: 50px;
+.header {
+    /*margin-top: 30px;*/
     height: 25%;
-    font-size: 40px;
+    font-size: 90px;
     vertical-align: middle;
     text-align: center;
     background: deepskyblue;
     color: black;
 }
-.kachel{
+
+.kachel {
     background: lightslategray;
     border-radius: 0;
-    font-size: 35px;
+    font-size: 85px;
     color: white;
     margin-top: 20px;
     height: 20%;
     text-align: center;
 }
-a{
+
+a {
     text-decoration: none;
     color: black;
 }
+
 .antworten_container {
+    height: 65%;
     width: 100%;
     text-align: center;
     margin: 0 auto;
 }
-.antwort {
-    font-size: 20px;
-    float: left;
+
+.antwort_inner {
+    height: 50%;
+    padding: 12px;
     width: 47%;
-    height: 100px;
-    margin: 10px 0 10px 20px;
+    float: left;
+}
+
+.antwort {
+    width: 100%;
+    height: 100%;
+    font-size: 50px;
+    float: left;
     color: white;
     text-align: center;
     background: lightslategrey;
+}
+
+.button_kachel {
+    height: 10%;
+    margin-left: 12px;
+    font-size: 50px;
+    color: white;
+    background: lightslategray;
+}
+
+.button_back {
+    color: white;
+    margin-top: 20px;
+    height: 10%;
+    font-size: 50px;
+    background: lightslategray;
+}
+.button_back a {
+    color: white;
 }
