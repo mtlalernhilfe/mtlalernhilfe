@@ -64,7 +64,7 @@ module.exports = function (grunt) {
         watch: {
             frontjs: {
                 files: ['frontend/src/js/**/*.js'],
-                tasks: ['concat:frontend', 'notify:watch']
+                tasks: ['concat:frontend', 'notify:watch', 'build']
             },
             hypertxt: {
                 files: ['frontend/src/js/**/*.js', 'html/*.html', 'css/*.css'],
