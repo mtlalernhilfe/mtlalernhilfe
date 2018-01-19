@@ -62,6 +62,7 @@ async.waterfall([
         console.log("##############################################################".red);
         process.exit();
     } else if (process.env.NODE_ENV === 'production') {
+        require('./server/routes/mainRoutes')(app, Models);
         app.listen(app.get('port'), function () {
             console.log("app ist listening on port ", app.get('port'))
         })
