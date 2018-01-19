@@ -91,7 +91,8 @@ angular.module('mainApp', []).controller('fragenCtrl', ['$scope', '$http', funct
     }
 
     $scope.toggleFragenModus = function () {
-        $scope.fragenModus = !$scope.fragenModus;
+        $scope.fragenModus = false;
+        $scope.showUebersicht = true;
     }
     $scope.checkAntwort = function (antwort, id) {
         if (!$scope.showWeiter) {
