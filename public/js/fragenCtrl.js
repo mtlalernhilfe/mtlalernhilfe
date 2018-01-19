@@ -85,9 +85,22 @@ angular.module('mainApp', []).controller('fragenCtrl', ['$scope', '$http', funct
                 $scope.antwortenFuerFrage.push(antwort);
             }
         })
-        $scope.antwortenFuerFrage.sort(function () {
-            return 1 - Math.random();
-        });
+        var n = $scope.antwortenFuerFrage.length;
+        var tempArr = [];
+        for (var i = 0; i < n - 1; i++) {
+            // The following line removes one random element from $scope.antwortenFuerFrage
+            // and pushes it onto tempArr
+            tempArr.push($scope.antwortenFuerFrage.splice(Math.floor(Math.random() * $scope.antwortenFuerFrage.length), 1)[0]);
+        }
+        // Push the remaining item onto tempArr
+        tempArr.push($scope.antwortenFuerFrage[0]);
+        $scope.antwortenFuerFrage = tempArr;
+
+        /*var random = Math.round(Math.random() * 2) -1;
+         $scope.antwortenFuerFrage.sort(function () {
+         console.log("sheesh", random)
+         return random;
+         });*/
     }
 
     $scope.toggleFragenModus = function () {
