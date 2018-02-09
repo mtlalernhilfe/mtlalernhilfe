@@ -63,6 +63,7 @@ angular.module('mainApp', []).controller('fragenCtrl', ['$scope', '$http', funct
 
     $scope.getFrage = function () {
         $scope.fragenText = "";
+        $scope.antwortenFuerFrage = [];
         for (var i = 0; i < $scope.fragenArray.length; i++) {
             var frage = $scope.fragenArray[i];
             if (frage.kurs == $scope.kurs && frage.fach == $scope.fach && !frage.flag) {
