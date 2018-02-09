@@ -92,20 +92,13 @@ angular.module('mainApp', []).controller('fragenCtrl', ['$scope', '$http', funct
             // and pushes it onto tempArr
             tempArr.push($scope.antwortenFuerFrage.splice(Math.floor(Math.random() * $scope.antwortenFuerFrage.length), 1)[0]);
         }
-        // Push the remaining item onto tempArr
         tempArr.push($scope.antwortenFuerFrage[0]);
         $scope.antwortenFuerFrage = tempArr;
-
-        /*var random = Math.round(Math.random() * 2) -1;
-         $scope.antwortenFuerFrage.sort(function () {
-         console.log("sheesh", random)
-         return random;
-         });*/
     }
 
     $scope.toggleFragenModus = function () {
         $scope.fragenModus = false;
-        $scope.showUebersicht = true;
+        $scope.showUebersicht = $scope.richtigBeantwortet > 0 || $scope.falschBeantwortet > 0;
     }
     $scope.checkAntwort = function (antwort, id) {
         if (!$scope.showWeiter) {

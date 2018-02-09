@@ -38,7 +38,7 @@
 </div>
 <div ng-if="fragenModus && !showUebersicht" style="height:100%">
     <div class="header">
-        {{fragenText}}
+        {{fragenText ? fragenText : "Leider sind hier noch keine Fragen verfügbar"}}
     </div>
     <div class="antworten_container" ng-if="antwortenFuerFrage">
         <div ng-repeat="antwort in antwortenFuerFrage" class="antwort_inner">
