@@ -1,4 +1,4 @@
-module.exports = function (app, Models) {
-    require('./apiRoutes')(app, Models);
+module.exports = function (app, db) {
+    require('./apiRoutes')(app, db);
     require('./jadeRoutes')(app);
 };

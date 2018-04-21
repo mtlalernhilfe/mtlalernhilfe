@@ -39,7 +39,7 @@
     <div class="header">
         {{fragenText ? fragenText : "Leider sind hier noch keine Fragen verfügbar"}}
     </div>
-    <div class="antworten_container" ng-if="antwortenFuerFrage">
+    <div class="antworten_container" ng-if="antwortenFuerFrage && antwortenFuerFrage.length > 0">
         <div ng-repeat="antwort in antwortenFuerFrage" class="antwort_inner">
             <div class="antwort" id="{{antwortenFuerFrage.indexOf(antwort)}}"
                  ng-click="checkAntwort(antwort, antwortenFuerFrage.indexOf(antwort))">{{antwort.antwortText}}
@@ -57,7 +57,7 @@
         Falsch beantwortet: {{falschBeantwortet}}
     </div>
     <div class="col-md-12 kachel">
-        Fragen gesammt: {{falschBeantwortet + richtigBeantwortet}}
+        Fragen gesamt: {{falschBeantwortet + richtigBeantwortet}}
     </div>
     <button class="btn btn-success button_back" ng-click="showHome()">Fertig</button>
 </div>

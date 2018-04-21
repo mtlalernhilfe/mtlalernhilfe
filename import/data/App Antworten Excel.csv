@@ -1,0 +1,197 @@
+antwortText;fach;korrekt;kurs;zuordnung
+Basophiler Erythroblast;haematologie;false;unterkurs;Frage1
+Proerythroblast;haematologie;false;unterkurs;Frage1
+Polychromatischer Erythroblast;haematologie;false;unterkurs;Frage1
+Orthochromatischer Erythroblast;haematologie;true;unterkurs;Frage1
+MDS;haematologie;false;mittelkurs;Frage2
+B-ALL;haematologie;false;mittelkurs;Frage2
+Peripheries T-Zell-Lymphom;haematologie;false;mittelkurs;Frage2
+B-CLL ;haematologie;true;mittelkurs;Frage2
+Leber, Milz, KM;haematologie;false;unterkurs;Frage3
+Leber;haematologie;false;unterkurs;Frage3
+Knochenmark der platten Knochen;haematologie;false;unterkurs;Frage3
+Leber und Milz;haematologie;true;unterkurs;Frage3
+bei Anämien;haematologie;false;mittelkurs;Frage4
+bei reaktiven Lymphozytosen;haematologie;false;mittelkurs;Frage4
+bei MDS;haematologie;false;mittelkurs;Frage4
+bei MPN;haematologie;true;mittelkurs;Frage4
+Basophile Punktierung;haematologie;false;unterkurs;Frage5
+Endoplasmatisches Retikulum;haematologie;false;unterkurs;Frage5
+Retikuläres Kernchromatin;haematologie;false;unterkurs;Frage5
+Substantia reticulofilamentosa;haematologie;true;unterkurs;Frage5
+Chronisch lymphatische Leukämie;haematologie;false;mittelkurs;Frage6
+Chronisch myeloische Leukämie;haematologie;false;mittelkurs;Frage6
+Akute lymphatische Leukämie;haematologie;false;mittelkurs;Frage6
+ Akute myeloische Leukämie;haematologie;true;mittelkurs;Frage6
+Megakaryoblast;haematologie;false;unterkurs;Frage7
+Burst-forming-unit (BFU-E);haematologie;false;unterkurs;Frage7
+Retikulozyt;haematologie;false;unterkurs;Frage7
+Proerythroblast;haematologie;true;unterkurs;Frage7
+Isoagglutinine sind immer vom IgG-Typ;haematologie;false;oberkurs;Frage8
+Die Blutgruppe 0 zeigt keine Antikörperbildung;haematologie;false;oberkurs;Frage8
+Das Vorhandensein natürlicher Antikörper;haematologie;false;oberkurs;Frage8
+Das Vorhandensein irregulärer Antikörper;haematologie;true;oberkurs;Frage8
+0 Rhesus negativ, Kell negativ;haematologie;false;oberkurs;Frage9
+B Rhesus negativ, Kell positiv;haematologie;false;oberkurs;Frage9
+A Rhesus negativ, Kell negativ;haematologie;false;oberkurs;Frage9
+A Rhesus negativ, Kell negativ;haematologie;true;oberkurs;Frage9
+;haematologie;false;oberkurs;Frage10
+;haematologie;false;oberkurs;Frage10
+;haematologie;false;oberkurs;Frage10
+;haematologie;true;oberkurs;Frage10
+Bei der Mutter erfolgt Antikörpernachweis durch den indirekten Coombstest;haematologie;false;oberkurs;Frage11
+Beim Kind erfolgt der Nachweis des MHN durch den direkten Coombstest;haematologie;false;oberkurs;Frage11
+a. Die Erys der Mutter tragen kein Merkmal D;haematologie;false;oberkurs;Frage11
+Die Identifizierung der Antikörper erfolgt im kindlichen Serum;haematologie;true;oberkurs;Frage11
+;haematologie;false;oberkurs;Frage12
+;haematologie;false;oberkurs;Frage12
+;haematologie;false;oberkurs;Frage12
+;haematologie;true;oberkurs;Frage12
+;haematologie;false;oberkurs;Frage13
+;haematologie;false;oberkurs;Frage13
+;haematologie;false;oberkurs;Frage13
+;haematologie;true;oberkurs;Frage13
+;haematologie;false;mittelkurs;Frage14
+;haematologie;false;mittelkurs;Frage14
+;haematologie;false;mittelkurs;Frage14
+;haematologie;true;mittelkurs;Frage14
+;haematologie;false;mittelkurs;Frage15
+;haematologie;false;mittelkurs;Frage15
+;haematologie;false;mittelkurs;Frage15
+;haematologie;true;mittelkurs;Frage15
+Erfassung von inkompletten Antikörpern;haematologie;false;oberkurs;Frage16
+Kontrolle der Entzymphase;haematologie;false;oberkurs;Frage16
+Nachweis von unbekannten Erythrozytenantigenen;haematologie;false;oberkurs;Frage16
+Kontrolle des Coombsserums;haematologie;true;oberkurs;Frage16
+Faktor VIII-Mangel;haematologie;false;mittelkurs;Frage17
+Faktor XII-Mangel;haematologie;false;mittelkurs;Frage17
+Faktor IX-Mangel;haematologie;false;mittelkurs;Frage17
+Faktor VII-Mangel;haematologie;true;mittelkurs;Frage17
+;haematologie;false;mittelkurs;Frage18
+;haematologie;false;mittelkurs;Frage18
+;haematologie;false;mittelkurs;Frage18
+;haematologie;true;mittelkurs;Frage18
+;haematologie;false;unterkurs;Frage19
+;haematologie;false;unterkurs;Frage19
+;haematologie;false;unterkurs;Frage19
+;haematologie;true;unterkurs;Frage19
+;haematologie;false;oberkurs;Frage20
+;haematologie;false;oberkurs;Frage20
+;haematologie;false;oberkurs;Frage20
+;haematologie;true;oberkurs;Frage20
+;haematologie;false;mittelkurs;Frage21
+;haematologie;false;mittelkurs;Frage21
+;haematologie;false;mittelkurs;Frage21
+;haematologie;true;mittelkurs;Frage21
+Granulozyten;haematologie;false;unterkurs;Frage22
+Thrombozyten;haematologie;false;unterkurs;Frage22
+ Lymphozyten;haematologie;false;unterkurs;Frage22
+Erythrozyten;haematologie;true;unterkurs;Frage22
+a)    90 Tage;haematologie;false;unterkurs;Frage23
+a)    14 Tage;haematologie;false;unterkurs;Frage23
+a)    3 Tage;haematologie;false;unterkurs;Frage23
+a)    120 Tage;haematologie;true;unterkurs;Frage23
+Schleimhaut ;haematologie;false;mittelkurs;Frage24
+a)    Gelenke;haematologie;false;mittelkurs;Frage24
+a)    Augen;haematologie;false;mittelkurs;Frage24
+a)    Haut;haematologie;true;mittelkurs;Frage24
+;haematologie;false;mittelkurs;Frage25
+;haematologie;false;mittelkurs;Frage25
+;haematologie;false;mittelkurs;Frage25
+;haematologie;true;mittelkurs;Frage25
+a)    Das Auftreten von Mundwinkelrhagaden;haematologie;false;unterkurs;Frage26
+a)    Eine Anulozytose;haematologie;false;unterkurs;Frage26
+a)    Eine Erniedrigung des Serumtransferrins;haematologie;false;unterkurs;Frage26
+Ein Plummer Vinson Syndrom;haematologie;true;unterkurs;Frage26
+;haematologie;false;unterkurs;Frage27
+ ;haematologie;false;unterkurs;Frage27
+;haematologie;false;unterkurs;Frage27
+;haematologie;true;unterkurs;Frage27
+;haematologie;false;unterkurs;Frage28
+;haematologie;false;unterkurs;Frage28
+;haematologie;false;unterkurs;Frage28
+;haematologie;true;unterkurs;Frage28
+;haematologie;false;mittelkurs;Frage29
+;haematologie;false;mittelkurs;Frage29
+;haematologie;false;mittelkurs;Frage29
+;haematologie;true;mittelkurs;Frage29
+;haematologie;false;oberkurs;Frage30
+;haematologie;false;oberkurs;Frage30
+;haematologie;false;oberkurs;Frage30
+;haematologie;true;oberkurs;Frage30
+;haematologie;false;unterkurs;Frage31
+;haematologie;false;unterkurs;Frage31
+;haematologie;false;unterkurs;Frage31
+;haematologie;true;unterkurs;Frage31
+;haematologie;false;oberkurs;Frage32
+;haematologie;false;oberkurs;Frage32
+;haematologie;false;oberkurs;Frage32
+;haematologie;true;oberkurs;Frage32
+;haematologie;false;oberkurs;Frage33
+;haematologie;false;oberkurs;Frage33
+;haematologie;false;oberkurs;Frage33
+;haematologie;true;oberkurs;Frage33
+;haematologie;false;mittelkurs;Frage34
+;haematologie;false;mittelkurs;Frage34
+;haematologie;false;mittelkurs;Frage34
+;haematologie;true;mittelkurs;Frage34
+;haematologie;false;unterkurs;Frage35
+;haematologie;false;unterkurs;Frage35
+;haematologie;false;unterkurs;Frage35
+;haematologie;true;unterkurs;Frage35
+;haematologie;false;oberkurs;Frage36
+;haematologie;false;oberkurs;Frage36
+;haematologie;false;oberkurs;Frage36
+;haematologie;true;oberkurs;Frage36
+;haematologie;false;unterkurs;Frage37
+;haematologie;false;unterkurs;Frage37
+;haematologie;false;unterkurs;Frage37
+;haematologie;true;unterkurs;Frage37
+;haematologie;false;mittelkurs;Frage38
+;haematologie;false;mittelkurs;Frage38
+;haematologie;false;mittelkurs;Frage38
+;haematologie;true;mittelkurs;Frage38
+;haematologie;false;mittelkurs;Frage39
+;haematologie;false;mittelkurs;Frage39
+;haematologie;false;mittelkurs;Frage39
+;haematologie;true;mittelkurs;Frage39
+;haematologie;false;mittelkurs;Frage40
+;haematologie;false;mittelkurs;Frage40
+;haematologie;false;mittelkurs;Frage40
+;haematologie;true;mittelkurs;Frage40
+;haematologie;false;mittelkurs;Frage41
+;haematologie;false;mittelkurs;Frage41
+;haematologie;false;mittelkurs;Frage41
+;haematologie;true;mittelkurs;Frage41
+ Immun-Elektrophorese;haematologie;false;mittelkurs;Frage42
+;haematologie;false;mittelkurs;Frage42
+;haematologie;false;mittelkurs;Frage42
+Philadelphia-Chromosom;haematologie;true;mittelkurs;Frage42
+;haematologie;false;mittelkurs;Frage43
+;haematologie;false;mittelkurs;Frage43
+;haematologie;false;mittelkurs;Frage43
+;haematologie;true;mittelkurs;Frage43
+;haematologie;false;unterkurs;Frage44
+;haematologie;false;unterkurs;Frage44
+;haematologie;false;unterkurs;Frage44
+;haematologie;true;unterkurs;Frage44
+;haematologie;false;mittelkurs;Frage45
+;haematologie;false;mittelkurs;Frage45
+;haematologie;false;mittelkurs;Frage45
+;haematologie;true;mittelkurs;Frage45
+;haematologie;false;unterkurs;Frage46
+;haematologie;false;unterkurs;Frage46
+;haematologie;false;unterkurs;Frage46
+;haematologie;true;unterkurs;Frage46
+;haematologie;false;oberkurs;Frage47
+;haematologie;false;oberkurs;Frage47
+;haematologie;false;oberkurs;Frage47
+;haematologie;true;oberkurs;Frage47
+;haematologie;false;mittelkurs;Frage48
+;haematologie;false;mittelkurs;Frage48
+;haematologie;false;mittelkurs;Frage48
+;haematologie;true;mittelkurs;Frage48
+;haematologie;false;mittelkurs;Frage49
+;haematologie;false;mittelkurs;Frage49
+;haematologie;false;mittelkurs;Frage49
+;haematologie;true;mittelkurs;Frage49

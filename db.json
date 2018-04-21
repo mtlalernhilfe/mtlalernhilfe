@@ -1,0 +1,3757 @@
+{
+  "fragen": [
+    {
+      "_id" : "5abfc0dd4dfafa029eba929d",
+      "fach" : "histologie",
+      "frage" : "Was ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba929f",
+      "fach" : "histologie",
+      "frage" : "Welches Epithel kleidet das Endozervix aus?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba92a3",
+      "fach" : "histologie",
+      "frage" : "Welches der folgenden Vorstadien zeigt das Zellbild eines Adenocarcinoma in situ (AIS)?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92ae",
+      "fach" : "histologie",
+      "frage" : "Was ist ein Lobus pyramidalis?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92af",
+      "fach" : "histologie",
+      "frage" : "Welche Symptome passen nicht zu einer Hyperthyreose?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage23"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92b1",
+      "fach" : "histologie",
+      "frage" : "Welche Färbung macht man in der Zytologie?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92b2",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zum Urothel ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92b3",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92b4",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zu Exsudaten ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92b5",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zu Transsudaten ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92b6",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zum Hämothorax ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92b7",
+      "fach" : "histologie",
+      "frage" : "Was passt nicht zum Chylothorax?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92b8",
+      "fach" : "histologie",
+      "frage" : "Was passt nicht zu neoplastischen Erkrankungen?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92b9",
+      "fach" : "histologie",
+      "frage" : "Was passt nicht zum Pleuraerguss?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92ba",
+      "fach" : "histologie",
+      "frage" : "Was passt nicht zur Zytologie der serösen Höhlen?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92bb",
+      "fach" : "histologie",
+      "frage" : "Was passt nicht zum Sputum?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage35"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92bc",
+      "fach" : "histologie",
+      "frage" : "Was passt nicht zu den Malignitätskriterien der Urinzytologie?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage36"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92bd",
+      "fach" : "histologie",
+      "frage" : "Was passt nicht zum Urothelkarzinom?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage37"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92be",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zu Malignomen in der Urinzytologie ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage38"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92bf",
+      "fach" : "histologie",
+      "frage" : "Welches Untersuchungsmaterial gehört nicht zur Zytologie?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage39"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92c0",
+      "fach" : "histologie",
+      "frage" : "Mit welcher Färbung wird Amyloid angefärbt?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage40"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92c1",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zur Zytologie der Harnwege ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage41"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92c2",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zur Zytologie der Schilddrüse ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage42"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92c3",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zum Morbus Basedow ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage43"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92c4",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zur Hypothyreose ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage44"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92c5",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zum Myxödem ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage45"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92c7",
+      "fach" : "histologie",
+      "frage" : "Für was ist das glatte endoplasmatische Retikulum nicht zuständig?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage47"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92c8",
+      "fach" : "histologie",
+      "frage" : "Was ist der Golgi-Apparat?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage48"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92c9",
+      "fach" : "histologie",
+      "frage" : "Was ist die Aufgabe vom Mikrotubulus?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage49"
+    },
+    {
+      "_id" : "5ac8a266640825042c3e40a1",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zu den Lymphozyten ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5ac8a266640825042c3e40a2",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zu den neutrophilen Granulozyten ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5a7dc22c35caa30993a95561",
+      "zuordnung" : "Frage49",
+      "kurs" : "Mittekurs",
+      "frage" : "die Fluoreszenz-in-situ-Hybridisierung bei Knochenmarksdiagnostik gehört zu",
+      "fach" : "haematologie"
+    },
+    {
+      "_id" : "5abfc0dc4dfafa029eba9299",
+      "fach" : "histologie",
+      "frage" : "Was wird bei der Zytologie nicht untersucht?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5abfc0dc4dfafa029eba929a",
+      "fach" : "histologie",
+      "frage" : "Was gehört nicht zu den Malignitätskriterien 1. Ordnung?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba929b",
+      "fach" : "histologie",
+      "frage" : "Was gehört nicht zu den Malignitätskriterien 2. Ordnung?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba929c",
+      "fach" : "histologie",
+      "frage" : "Was gehört nicht zu den Malignitätskriterien 3. Ordnung?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba929e",
+      "fach" : "histologie",
+      "frage" : "Was gehört nicht zur Bestimmung eines Tumortyps?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba92a0",
+      "fach" : "histologie",
+      "frage" : "Welches Ergebnis passt nicht zur PAP-Färbung?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba92a1",
+      "fach" : "histologie",
+      "frage" : "Welche Zellen findet man hauptsächlich beim Proliferationsgrad nach Schmitt Grad 4?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba92a2",
+      "fach" : "histologie",
+      "frage" : "Was beschreibt das Zellbild einer mäßigen Dysplasie?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba92a4",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zu HPV ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba92a5",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zu den Döderleinbakterien ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba92a6",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zu Trichomonaden ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba92a7",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zu Chlamydien ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba92a8",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zu Candida ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5abfc0dd4dfafa029eba92a9",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zu Herpes simplex ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92aa",
+      "fach" : "histologie",
+      "frage" : "Welche Aussage zu Gardnerella ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92ab",
+      "fach" : "histologie",
+      "frage" : "Was ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92ac",
+      "fach" : "histologie",
+      "frage" : "Was passt nicht zur Thereoditis de Quervain?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92ad",
+      "fach" : "histologie",
+      "frage" : "Was passt nicht zur Hashimoto-Thyreoditis?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5abfc0de4dfafa029eba92b0",
+      "fach" : "histologie",
+      "frage" : "Was ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5abfc0df4dfafa029eba92c6",
+      "fach" : "histologie",
+      "frage" : "Was sind Lysosomen?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage46"
+    },
+    {
+      "_id" : "5ac8a266640825042c3e409d",
+      "fach" : "haematologie",
+      "frage" : "Aus was besteht Blut ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5ac8a266640825042c3e409e",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zum Hämatokrit ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5ac8a266640825042c3e409f",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zum Haptoglobin ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5ac8a266640825042c3e40a0",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zu Erythrozyten ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5ac8a266640825042c3e40a3",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zu den eosinophilen Granulozyten ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5ac8a266640825042c3e40a4",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zu den basophilen Granulozyten ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40a6",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zu den Monozyten ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40a7",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zu den Thrombozyten ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40a8",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zur Hämatopoese ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40a9",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zur Erythropoese ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40aa",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zu EPO ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40ab",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zu Hämoglobin ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40ac",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zu Bilirubin ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40ad",
+      "fach" : "haematologie",
+      "frage" : "Aus welchen Komponenten besteht das kleine Blutbild ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40ae",
+      "fach" : "haematologie",
+      "frage" : "Was gehört zum großem Blutbild ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40af",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zum Erythrozytenindizes ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40b0",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zur Erythrozytenmorphologie ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40b1",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zu den Leukozyten ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40b2",
+      "fach" : "haematologie",
+      "frage" : "Entwicklung der Granulozyten, welche Reihenfolge ist die Richtige ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40b4",
+      "fach" : "haematologie",
+      "frage" : "Welche Anomalie passt nicht zu den neutrophilen Granulozyten Anomalien mit Zytoplasmaeinschlüssen ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40b5",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zum Pfeiffer´sches Drüsenfieber ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40b6",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zur Linksverschiebung der Granulopoese ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40b7",
+      "fach" : "haematologie",
+      "frage" : "Welcher Indiz spricht für eine CML ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5ac8a267640825042c3e40b8",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zu den Thrombozyten ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40b9",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zum Eisen ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40ba",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zur Eisenresorption richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40bb",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zur Anämie ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40bc",
+      "fach" : "haematologie",
+      "frage" : "Welche Analyte gehören zu den Hämolyseparametern ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40bd",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zur Hämolytischen Anämie ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40be",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zum Glukose-6-Phosphatdehydrogenase-Mangel ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40bf",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zur Paroxysmale nächtliche Hämoglobinurie (PNH) ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage35"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40c0",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zum Erythrozytenmembrandefekt/Kugelzellanämie ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage36"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40c1",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zur Sichelzellanämie ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage37"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40c2",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zur Thalassämie ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage38"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40c3",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zum Erythrozytenfragmentationssyndrom ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage39"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40c4",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zum Coombs-Test ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage40"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40c5",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zum AIHA vom Wärmetyp ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage41"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40c6",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zum AIHA vom Kältetyp ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage42"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40c7",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zur normozytären normochromen Anämie ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage43"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40c8",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zum Eisenmangel ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage44"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40c9",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zur Anämie der chronischen Krankheit (ACD) ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage45"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40ca",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zur Sideroblastischen Anämie ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage46"
+    },
+    {
+      "_id" : "5ac8a268640825042c3e40cb",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zur Megaloblastären Anämie ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage47"
+    },
+    {
+      "_id" : "5ac8a269640825042c3e40cc",
+      "fach" : "haematologie",
+      "frage" : "Welche Antwort zum Vitamin B12 ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage48"
+    },
+    {
+      "_id" : "5ac8a269640825042c3e40cd",
+      "fach" : "haematologie",
+      "frage" : "Welche Aussage zur makrozytären Anämie bei Alkoholismus ist richtig ?",
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage49"
+    }
+  ],
+  "antworten": [
+    {
+      "_id" : "5ac8a184640825042c3e3fea",
+      "antwortText" : "ihre Granula enthält Stoffe zur Bekämpfung von Parasiten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3feb",
+      "antwortText" : "die basophile Granula enthält Heparin (aktiviert Blutgerinnung) und Histamin (gefäßverengend)",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3fed",
+      "antwortText" : "Heparin (hemmt die Blutgerinnung) und Histamin (gefäßweitend) sind in der Granula enthalten",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3ff2",
+      "antwortText" : "kleinste Zelle aller Leukozyten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3ff3",
+      "antwortText" : "sind etwa 20 - 40% aller Leukozyten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e3ff5",
+      "antwortText" : "haben einen eingebuchteten Kern und zarte Azurgranula",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e3ff6",
+      "antwortText" : "größte korpuskuläre Bestanteile im Blut",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e3ff7",
+      "antwortText" : "wichtig für die Sauerstoffzufuhr",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e3ff8",
+      "antwortText" : "aktiv bei Parasiten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e3ff9",
+      "antwortText" : "Referenzwert: 150 - 450 G/l",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e3ffa",
+      "antwortText" : "CSF ist für die Hämatopoese nicht wichtig",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e3ffb",
+      "antwortText" : "nicht alle Blutzellen werden im roten Knochenmark gebildet",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e3ffc",
+      "antwortText" : "aus der hämatopoetischen Stammzelle gehen nur Erythrozyten hervor",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e3ffd",
+      "antwortText" : "bei Erwachsenen ist die extramedulläre Hämatopoese immer pathologisch",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e3ffe",
+      "antwortText" : "Retikulozyt, Proerythroblast, Erythrozyt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e4000",
+      "antwortText" : "Proerythroblast, baso. Normoblast, polychr. Normoblast, oxiphiler Normoblast, Proerythrozyt, Retikulozyt, Erythrozyt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e4001",
+      "antwortText" : "Proerythroblast, baso. Normoblast, polychr. Normoblast, oxiphiler Normoblast, Retikukozyt, Erythrozyt",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e4002",
+      "antwortText" : "verlagsamt die Hämoglobin-Synthese und die Freisetzung der Retikulozyten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e4003",
+      "antwortText" : "EPO = Erythroplastererosteolysefactor",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e4004",
+      "antwortText" : "das in der Leber gebildete EPO steigert die Proliferation und die Differenzierung der Stammzellen",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e4006",
+      "antwortText" : "ist nicht wichtig für die Funktion des Sauerstofftransports",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e4007",
+      "antwortText" : "bei der Sauerstoffbindung an das Häm kommt es zu einer Wertigkeitsänderung des Eisens",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e4008",
+      "antwortText" : "wird in der Niere abgebaut",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e4009",
+      "antwortText" : "ist ein Proteid zusammengesetzt aus dem Globinanteil und dem Hämkomponente",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e400a",
+      "antwortText" : "indirektes Bilirubin ist wasserlöslich, direktes Bilirubin ist wasserunlöslich",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e4011",
+      "antwortText" : "Erythrozyten,Leukozytenzahl, Thrombozytenzahl",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e4016",
+      "antwortText" : "MCV: Hb (%) x 10/ Erys (106/ul)",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba933f",
+      "antwortText" : "Sieht makroskopisch trüb und rotbraun aus",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba9342",
+      "antwortText" : "Sieht makroskopisch klar bis bernsteinfarben und wässrig aus",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba9344",
+      "antwortText" : "Zytologisch kann man einzelne Lymphozyten sehen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba9347",
+      "antwortText" : "Sieht makroskopisch wässrig und rot aus",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba9348",
+      "antwortText" : "Zytologisch kann man vor allem Erythrozyten sehen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba934c",
+      "antwortText" : "Zytologisch kann man multiple Lymphozyten sehen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba934e",
+      "antwortText" : "Ist makroskopisch nicht von Ergüssen anderer Genese zu unterscheiden",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba9351",
+      "antwortText" : "Fehlen von neoplastischen Zellen schließt das Vorliegen einer Dysplasie aus",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba9353",
+      "antwortText" : "Eine eitrige Punktatflüssigkeit nennt man Pyothorax",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba9356",
+      "antwortText" : "Bei der Pleurazytologie braucht man 2-10 ml",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba9358",
+      "antwortText" : "Bei der Perikardzytologe braucht man 1 ml",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba935b",
+      "antwortText" : "Enthält typischerweise Makrophagen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage35"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba935d",
+      "antwortText" : "Man muss sich davor nicht die Zähne putzen",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage35"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba935e",
+      "antwortText" : "Unregelmäßige Zellkerne",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage36"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba935f",
+      "antwortText" : "Grobkörniges und verklumptes Chromatin",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage36"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba9360",
+      "antwortText" : "Verdickte Kernmembran",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage36"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba9361",
+      "antwortText" : "Hypochromasie",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage36"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba9362",
+      "antwortText" : "90 % der Blasenkarzinome sind Urothelkarzinome",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage37"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba9363",
+      "antwortText" : "Sie sind oft multifokal",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage37"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba9364",
+      "antwortText" : "Man nennt es auch Übergangszellkarzinom",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage37"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba9365",
+      "antwortText" : "Man nennt es nicht Transitionalzellkarzinom",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage37"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba9366",
+      "antwortText" : "Rauchen ist ein Risikofaktor",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage38"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba9367",
+      "antwortText" : "Eine Abnahmebedingung des Urins ist das Spülen der Harnblase mit 20 ml NaCl7",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage38"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba9368",
+      "antwortText" : "Eine Indikation ist eine schmerzlose Hämaturie",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage38"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba9369",
+      "antwortText" : "Die Latenzzeit ist sehr niedrig",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage38"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba936a",
+      "antwortText" : "Schilddrüse",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage39"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba936b",
+      "antwortText" : "Harntrakt",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage39"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba936c",
+      "antwortText" : "Sputum",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage39"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba936f",
+      "antwortText" : "Van Giesson",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage40"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba9370",
+      "antwortText" : "Masson Goldner",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage40"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba9371",
+      "antwortText" : "Kongorot",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage40"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba9372",
+      "antwortText" : "Untersuchungsmaterial ist Urin",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage41"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba9373",
+      "antwortText" : "Es sind wenige Zellen enthalten",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage41"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba9374",
+      "antwortText" : "Man findet Superfizialzellen und Urothelzellen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage41"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba9375",
+      "antwortText" : "Man nimmt den 1. Morgenurin",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage41"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba9376",
+      "antwortText" : "Von allen Knoten in der SD sind nur 1-2 % bösartig",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage42"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba9377",
+      "antwortText" : "Das Karzinom wächst durch Bindegewebe",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage42"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba9378",
+      "antwortText" : "Das Karzinom wächst invasiv in Gefäße",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage42"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba9379",
+      "antwortText" : "Eine Unterscheidung vom follikulären Karzinom zum Adenom ist in der Zytologie möglich",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage42"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba937a",
+      "antwortText" : "TSH ist erniedrigt",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage43"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba937b",
+      "antwortText" : "Es ist eine Autoimmunerkrankung",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage43"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba937c",
+      "antwortText" : "Nachweis von TSH-Rezeptor-AK",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage43"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba937d",
+      "antwortText" : "fT3 und fT4 sind erniedrigt",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage43"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba937e",
+      "antwortText" : "Es ist eine SD-Unterfunktion",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage44"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba937f",
+      "antwortText" : "Es können Depressionen auftreten",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage44"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba9380",
+      "antwortText" : "Es kann Demenz auftreten",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage44"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba9381",
+      "antwortText" : "Zur Ätiologie passt nicht die chronische Hashimoto-Tyhreoditis",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage44"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba9382",
+      "antwortText" : "Kann wegen einer Hypothyreose auftreten",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage45"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba9383",
+      "antwortText" : "Ist eine ödematöse Auftreibung der Unterhaut",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage45"
+    },
+    {
+      "_id" : "5abfc1ef4dfafa029eba9384",
+      "antwortText" : "Einlagerung von Glykosaminoglykanen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage45"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba9385",
+      "antwortText" : "Morbus Basedow passt nicht zur Ätiologie",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage45"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba9386",
+      "antwortText" : "Ein Entgiftungsapparat",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage46"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba9387",
+      "antwortText" : "Eine Fortsetzung der Zellkernmembran",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage46"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba9388",
+      "antwortText" : "Die Kraftwerke der Zelle",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage46"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba9389",
+      "antwortText" : "Der Ort der intrazellulären Verdauung",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage46"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba938a",
+      "antwortText" : "Speichert Calcium",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage47"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba938b",
+      "antwortText" : "Speichert Kohlenhydrate",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage47"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba938c",
+      "antwortText" : "Hat Aufgaben im Bereich der Entgiftung",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage47"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba938d",
+      "antwortText" : "Hat Aufgaben im Bereich der Verdauung",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage47"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba938e",
+      "antwortText" : "Zuständig für Stabilität",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage48"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba938f",
+      "antwortText" : "Ist ein Entgiftungsapparat",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage48"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba9390",
+      "antwortText" : "Ist ein Proteinkomplex",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage48"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba9391",
+      "antwortText" : "Bildet und speichert Sekrete, die unter anderem Hormone enthalten",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage48"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba9392",
+      "antwortText" : "Verdichtung des Erbmaterials",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage49"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba9393",
+      "antwortText" : "Entgiftung",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage49"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba9394",
+      "antwortText" : "Steuerzentrale der Zelle",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage49"
+    },
+    {
+      "_id" : "5abfc1f04dfafa029eba9395",
+      "antwortText" : "Stabilität",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage49"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba9333",
+      "antwortText" : "Azan",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba9335",
+      "antwortText" : "PAP",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba936d",
+      "antwortText" : "Blut",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage39"
+    },
+    {
+      "_id" : "5abfc1ee4dfafa029eba936e",
+      "antwortText" : "H.E.",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage40"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba92fc",
+      "antwortText" : "II p",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba9332",
+      "antwortText" : "H.E.",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3fe4",
+      "antwortText" : "0 - 0,4 G/l Referenzwert",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3fe5",
+      "antwortText" : "sind 50 - 65% aller Leukozyten",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3fe6",
+      "antwortText" : "50 - 65 % aller Leukozyten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3fe7",
+      "antwortText" : "haben einen 3 - 5fach segmentierten Kern",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3fe8",
+      "antwortText" : "beteiligen sich nicht an der Bekämpfung von Parasiten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3fe9",
+      "antwortText" : "besitzen rote Granula",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3fec",
+      "antwortText" : "die Granula ist sehr zart und verdeckt nicht den Zellkern",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e3ff4",
+      "antwortText" : "haben einen bisegmentierter Kern, rote kugelförmige Granula",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e3fff",
+      "antwortText" : "Proerythroblast, Erythroblast, Retikulozyt, Erythrozyt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5ac8a185640825042c3e4005",
+      "antwortText" : "wird in der Niere gebildet und steigert die Proliferation und die Differenzierung der Stammzellen in Richtung Erythropoese",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e400b",
+      "antwortText" : "indirektes Bilirubin wird auch konjungiertes Bilirubin genannt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e400c",
+      "antwortText" : "direktes Bilirubin wird auch konjugates Bilirubin genannt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e400d",
+      "antwortText" : "indirekts Bilirubin ist wasserunlöslich, direktes Bilirubin ist wasserlöslich",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e400e",
+      "antwortText" : "Erythrozyten, Erythrozytenmorphologie, Thrombozytenzahl",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e400f",
+      "antwortText" : "Leukozyten, Thrombozytenzahl, Differentialblutbild",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e4010",
+      "antwortText" : "Erythrozyten, Leukozyten, Differentialblutbild",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e4012",
+      "antwortText" : "Erythrozyten, Thrombozytenzahl, Differentialblutbild",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e4013",
+      "antwortText" : "kleines Blutbild, Differentialblutbild",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e4014",
+      "antwortText" : "Differentialblutbild, Erythrozytenmorphologie, Thrombozytenzahl",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e4015",
+      "antwortText" : "kleines Blutbild, Erythrozytenmorphologie, Differentialblutbild",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e4017",
+      "antwortText" : "MCH: Hb (%) x 10/ Erys (106/ul)",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e4018",
+      "antwortText" : "Referenzwert MCHC: 85 - 100 fl",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e4019",
+      "antwortText" : "MCHC: Hb (g/dl) x 100/ Hk (%)",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5ac8a186640825042c3e401a",
+      "antwortText" : "Anisozytose = Vielfarbigkeit",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e401b",
+      "antwortText" : "Polychromasie = verschiedene Größen",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e401c",
+      "antwortText" : "Anisochromasie = normal angefärbte Erythrozyten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e401d",
+      "antwortText" : "Poikilozytose = verschiedene Formen",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e401e",
+      "antwortText" : "Granulozyten gehören zum unspezifischen humoralem Immunsystem",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e401f",
+      "antwortText" : "Monozyten gehören zum spezifischen zellulärem Immunsystem",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e4020",
+      "antwortText" : "Leukozyten gehören zu den humoralen Anteil des Immunsystems",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e4021",
+      "antwortText" : "Lymphozyten gehören zum spezifischen zellulärem Immunsystem",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e4022",
+      "antwortText" : "Myeloblast, Promyelozyt, Myelozyt, Prämyelozyt, stabkerniger Granulozyt, segmentkerniger Granulozyt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e4023",
+      "antwortText" : "Myeloblast, Promyelozyt, Metamyelozyt, Myelozyt, stabkerniger Granulozyt, segmentkerniger Granulozyt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e4024",
+      "antwortText" : "Myeloblast, Myelozyt, Promyelozyt, stabkerniger Granulozyt, segmentkerniger Granulozyt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e4025",
+      "antwortText" : "Myeloblast, Promyelozyt, Myelozyt, Metamyelozyt, stabkerniger Granulozyt, segmentkerniger Granulozyt",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e402a",
+      "antwortText" : "Döhle Körperchen",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e402b",
+      "antwortText" : "May-Hegglin-Anomalie",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e402c",
+      "antwortText" : "Auerstäbchen",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5abfc1e54dfafa029eba92d2",
+      "antwortText" : "Gelöste, abgeschilferte Zellen oder Zellverbände",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5abfc1e54dfafa029eba92d3",
+      "antwortText" : "Zellen aus dem Blut",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5abfc1e54dfafa029eba92d4",
+      "antwortText" : "Einzeln oder locker aufgelagerte Zellen eines Organs oder Organoberfläche",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5abfc1e54dfafa029eba92d5",
+      "antwortText" : "Gewebe",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92d6",
+      "antwortText" : "Anomalien der Kernmembran",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92d7",
+      "antwortText" : "Anomalien des Kerns",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92d8",
+      "antwortText" : "Anomalien der Chromatinstruktur",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92d9",
+      "antwortText" : "Nukleoläre Veränderungen",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92da",
+      "antwortText" : "Zytoplasmatische Veränderungen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92db",
+      "antwortText" : "Nukleoläre Veränderungen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92dc",
+      "antwortText" : "Mitosen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92dd",
+      "antwortText" : "Nekrosen",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92de",
+      "antwortText" : "Nekrosen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92df",
+      "antwortText" : "Ausstrichhintergrund",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92e0",
+      "antwortText" : "Quetschempfindlichkeit",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92e1",
+      "antwortText" : "Anomalien des Kerns",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92e2",
+      "antwortText" : "Malignitätskriterium 2. Ordnung muss nicht immer erfüllt sein für die Diagnose eines Malignoms",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92e3",
+      "antwortText" : "Kein Kriterium allein ist für die Diagnose ausreichend",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92e4",
+      "antwortText" : "Je mehr Kriterien erfüllt sind, desto wahrscheinlicher ist die Diagnose",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92e5",
+      "antwortText" : "Malignitätskriterium 3. Ordnung muss immer erfüllt sein für die Diagnose eines Malignoms",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5abfc1e64dfafa029eba92e6",
+      "antwortText" : "Zellform",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92e7",
+      "antwortText" : "Kernkriterien",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92e8",
+      "antwortText" : "Zytoplasmakriterien",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92e9",
+      "antwortText" : "Gleichgroße Zellkerne",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92ea",
+      "antwortText" : "Mehrschichtiges, Unverhorntes Plattenepithel",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92eb",
+      "antwortText" : "Einschichtiges, Verhorntes Plattenepithel",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92ec",
+      "antwortText" : "Einschichtiges, Unverhorntes Plattenepithel",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92ed",
+      "antwortText" : "Hochprismatisches Zylinderepithel",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92ee",
+      "antwortText" : "Blauer Zellkern",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92ef",
+      "antwortText" : "Blaugrünes Zytoplasma",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92f0",
+      "antwortText" : "Keratinhaltiges Zytoplasma rot",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92f1",
+      "antwortText" : "Grüner Schleim",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92f2",
+      "antwortText" : "Intermediärzellen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92f3",
+      "antwortText" : "Kleine Intermediärzellen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92f4",
+      "antwortText" : "Parabasalzellen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5abfc1e74dfafa029eba92f5",
+      "antwortText" : "Superfizialzellen",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba92f6",
+      "antwortText" : "CIN IIID1",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba92f7",
+      "antwortText" : "CIN II",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba92f8",
+      "antwortText" : "CIN I",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba92f9",
+      "antwortText" : "CIN IIID2",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba92fa",
+      "antwortText" : "IV a-p",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba92fb",
+      "antwortText" : "IV b-p",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba92fd",
+      "antwortText" : "IV a-g",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba92fe",
+      "antwortText" : "Es ist sehr umweltresistent.",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba92ff",
+      "antwortText" : "Es hat keine Hülle.",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba9300",
+      "antwortText" : "Koilozytose ist ein typisches zytologisches Kriterium.",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba9301",
+      "antwortText" : "Kondome senken das Infektionsrisiko um 99%.",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba9302",
+      "antwortText" : "Lange Stäbchen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba9303",
+      "antwortText" : "Gehören zur normalen Scheidenflora",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba9304",
+      "antwortText" : "Man nennt sie auch Lactobacillus acidophilus",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba9305",
+      "antwortText" : "Haben basischen pH-Wert",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba9306",
+      "antwortText" : "Ist eine sexuell übertragbare Krankheit",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba9307",
+      "antwortText" : "Gehört zu den Parasiten",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5abfc1e84dfafa029eba9308",
+      "antwortText" : "Gehört zu den Protozoen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba9309",
+      "antwortText" : "Männer erkranken häufiger als Frauen",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba930a",
+      "antwortText" : "Ist gramnegativ",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba930b",
+      "antwortText" : "Ist obligat intrazellulär",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba930c",
+      "antwortText" : "Leben in zytoplasmatischen Vakuolen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba930d",
+      "antwortText" : "Kann sich selbstständig fortbewegen",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba930e",
+      "antwortText" : "Candida albicans ist ein Pilz",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba930f",
+      "antwortText" : "Befällt die zum Teil die äußeren Geschlechtsorgane",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba9310",
+      "antwortText" : "etwa 50-70% der Menschen tragen den Keim",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba9311",
+      "antwortText" : "Soor ist ein einheitliches Krankheitsbild",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba9312",
+      "antwortText" : "Ist eine sexuell übertragbare Krankheit",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba9313",
+      "antwortText" : "Die Krankheitsdauer beträgt einige Tage bis zu 4 Wochen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba9314",
+      "antwortText" : "In der Zytologie sind intranukläre, virusbedingte Einschlüsse zu sehen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba9315",
+      "antwortText" : "Die Inkubationszeit beträgt 2 Tage",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba9316",
+      "antwortText" : "Ist grampositiv",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba9317",
+      "antwortText" : "Bei Infektionen werden selten Döderleinbakterien angetroffen.",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba9318",
+      "antwortText" : "Die Stäbchen sind fast kokkoid",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba9319",
+      "antwortText" : "Man findet in der Zytologie keine Leukozyten",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5abfc1e94dfafa029eba931a",
+      "antwortText" : "Hämatogene Metastasierung findet man bei follikulären SD-Ca",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba931b",
+      "antwortText" : "Lymphogene Metastasierung findet man bei papillären SD-Ca",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba931c",
+      "antwortText" : "Medulläre SD-Ca haben ihren Ursprung aus den C-Zellen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba931d",
+      "antwortText" : "Anaplastische SD-Ca haben ihren Ursprung aus den C-Zellen",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba931e",
+      "antwortText" : "Man sieht mehrkernige Riesenzellen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba931f",
+      "antwortText" : "Man sieht SD-Epithelien",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba9320",
+      "antwortText" : "Man sieht Entzündungszellen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba9321",
+      "antwortText" : "Man sieht keine Epitheloidzellen",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba9322",
+      "antwortText" : "Man sieht Lymphozyten",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba9323",
+      "antwortText" : "Man sieht Plasmazellen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba9324",
+      "antwortText" : "Man sieht Onkozyten",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba9325",
+      "antwortText" : "Man sieht intranukleäre Einschlüsse",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba9326",
+      "antwortText" : "Struma bei ektopem SD-Gewebe am Zungengrund",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba9327",
+      "antwortText" : "Struma bei embryonal zu tief gewandertem SD-Gewebe",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba9328",
+      "antwortText" : "Eine mediane Halszyste",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba9329",
+      "antwortText" : "Zusätzlicher SD-Lappen im Bereich des Ductus thyreoglossus",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba932a",
+      "antwortText" : "Tachykardie",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage23"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba932b",
+      "antwortText" : "Durchfall",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage23"
+    },
+    {
+      "_id" : "5abfc1ea4dfafa029eba932c",
+      "antwortText" : "Gewichtsabnahme",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage23"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba932d",
+      "antwortText" : "Gewichtszunahme",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage23"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba932e",
+      "antwortText" : "Ein Struma ist eine Vergrößerung der Schilddrüse",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba932f",
+      "antwortText" : "Ein Struma kolloides nodosa ist eine nichtmaligne SD-Vergrößerung",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba9330",
+      "antwortText" : "Ein Struma kann wegen Jodmangel auftauchen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba9331",
+      "antwortText" : "Die Follikel eines Stromas sind immer gleich groß",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba9334",
+      "antwortText" : "Van Giesson",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba9336",
+      "antwortText" : "Es besteht zum Teil aus Umbrellazellen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba9337",
+      "antwortText" : "Es besteht zum Teil aus Intermediärzellen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba9338",
+      "antwortText" : "Es ist mehrschichtig und mehrreihig",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba9339",
+      "antwortText" : "Es ist nur mehrschichtig",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba933a",
+      "antwortText" : "Im Urinsediment können Erythrozyten gefunden werden",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba933b",
+      "antwortText" : "Bestimmte Berufsgruppen haben ein erhöhtes Risiko für Urothelkarcinome",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba933c",
+      "antwortText" : "Normale Urothelzellen sind groß und haben einen runden, homogenen, kleinen Zellkern",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5abfc1eb4dfafa029eba933d",
+      "antwortText" : "Je nach Entdifferenzierung verschiebt sich die Kern-Plasma-Relation zu Gunsten des Zellplasmas",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba933e",
+      "antwortText" : "Ist eine entzündlich bedingte Permeabilitätssteigerung der Gefäße",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba9340",
+      "antwortText" : "Zytologisch kann man Makrophagen und neutrophile Granulozyten sehen",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba9341",
+      "antwortText" : "Zytologisch kann man keine aktivierten Mesothelzellen sehen",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba9343",
+      "antwortText" : "Erguss infolge eines erhöhten hydrostatischen oder onkotischen Drucks",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba9345",
+      "antwortText" : "Ist proteinreich",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba9346",
+      "antwortText" : "Ensteht traumatisch",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba9349",
+      "antwortText" : "Ähnelt den Werten im peripheren Blut nicht",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba934a",
+      "antwortText" : "Sieht makroskopisch milchig-trüb oder hellrosa aus",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba934b",
+      "antwortText" : "Ist formal zu Transsudaten",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba934d",
+      "antwortText" : "Der Cholesterinwert ist stark pathologisch",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5abfc1ec4dfafa029eba934f",
+      "antwortText" : "Proteingehalt und Zellzahl können stark variieren",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba9350",
+      "antwortText" : "Charakteristika von Transsudaten bis hin zu Exsudaten",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba9352",
+      "antwortText" : "Die Punktatflüssigkeit ist wässrig klar",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba9354",
+      "antwortText" : "Eine blutige Punktatflüssigkeit nennt man Hämothorax",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba9355",
+      "antwortText" : "Punktatflüssigkeit gibt immer Rücklschluss auf die Ätiologie des Ergusses",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba9357",
+      "antwortText" : "Bei der Peritoneumzytologie braucht man weniger als 50 ml",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba9359",
+      "antwortText" : "Im Ergusspunktat sind nie Mesothelzellen",
+      "fach" : "histologie",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba935a",
+      "antwortText" : "Enthält typischerweise Bronchialepithelien",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage35"
+    },
+    {
+      "_id" : "5abfc1ed4dfafa029eba935c",
+      "antwortText" : "Das beste Material gewinnt man morgens",
+      "fach" : "histologie",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage35"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fce",
+      "antwortText" : "Plasma: Erythrozyten, Fibrinogen, Serum und Blutzellen: Leukozyten, Thormbozyten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fcf",
+      "antwortText" : "Plasma: Lymphozyten, Serum und Blutzellen: Leukozyten, Thormbozyten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fd0",
+      "antwortText" : "Plasma: Fibrinogen, Granulozyten und Blutzellen: Thrombozyten; Erythrozyten, Serum",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fd1",
+      "antwortText" : "Plasma: Fibrinogen, Serum und Blutzellen: Erythrozyten, Leukozyten, Thrombozyten",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fd2",
+      "antwortText" : "Männer: 35-45% Frauen: 40-50%",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fd3",
+      "antwortText" : "Männer: 40-50 G/l Frauen: 35-45 G/l",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fd4",
+      "antwortText" : "Männer und Frauen 2-5 g/dl",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fd5",
+      "antwortText" : "Männer: 40-50% Frauen: 35-45%",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fd6",
+      "antwortText" : "Bildungsort: Niere; Hämoglobinfänger; Hämolyseparameter",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fd7",
+      "antwortText" : "zuständig für Eisentransport; Bilungsort: Leber; Hämolyseparameter",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fd8",
+      "antwortText" : "Sepsismarker; Hämoglobinfänger; Bildungsort: Leber",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fd9",
+      "antwortText" : "Bildungsort: Leber; Hämoglobinfänger, Hämolyseparameter",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fda",
+      "antwortText" : "Lebensdauer 10 Tage",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fdb",
+      "antwortText" : "Männer: 6 x 1012/l Frauen: 5,5 x 1012/l = Anämie",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fdc",
+      "antwortText" : "werden in lymphatische Organe differenziert",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fdd",
+      "antwortText" : "Männer: 4,5 - 5,5 x 1012/l Frauen: 4,0 - 5,0 x 1012/l",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fde",
+      "antwortText" : "3 -5 G/l",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fdf",
+      "antwortText" : "zuständig für die Sauerstoffversorgung der Organe und dem Gewebe",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5ac8a183640825042c3e3fe0",
+      "antwortText" : "Lebensdauer 100 bis 200 Tage",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3fe1",
+      "antwortText" : "bilden zusammen mit den sog. Lymphatischen Organen das Immunsystem",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3fe2",
+      "antwortText" : "haben einen bisegmentierter Kern",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5ac8a184640825042c3e3fe3",
+      "antwortText" : "besitzen dunkelblau-violette Granula, die den Zellkern verdeckt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e402d",
+      "antwortText" : "toxische Granulation",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5ac8a187640825042c3e402e",
+      "antwortText" : "Monozyten sind dafür typisch",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e402f",
+      "antwortText" : "Leukozyten mit 5 - 10 G/l",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4030",
+      "antwortText" : "bakterien Infektion mit Eppstein-Barr-Bakterien",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4031",
+      "antwortText" : "B1-Lymphozyten werden befallen",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4032",
+      "antwortText" : "reaktive Linksverschiebung = Vorkommen von Myelozyten, Promyelozyten oder Blasten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4033",
+      "antwortText" : "pathologische Linksverschiebung = Vorkommen von Stabkernigen Granulozyten und einigen Metamyelozyten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4034",
+      "antwortText" : "pathologische Linksverschiebung Ursache ist häufig eine bakterieller Infektion",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4035",
+      "antwortText" : "vermehrtes Auftreten von unreifen Neutrophilen bzw. Vorläuferzellen",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4036",
+      "antwortText" : "reaktive Linksverschiebung",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4037",
+      "antwortText" : "Leukopenie",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4038",
+      "antwortText" : "Vorkommen von Vorstufen bis zum Metamyelozyten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4039",
+      "antwortText" : "alkalischen Leukozytenphosphatasenwert von <20%",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e403a",
+      "antwortText" : "Thrombozytose ist ab einem Wert von 400 G/l",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e403b",
+      "antwortText" : "das Wachstumshormon der Thrombopoese heißt EPO",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e403c",
+      "antwortText" : "Thrombozyten sind wichtig für die Immunantwort",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e403d",
+      "antwortText" : "gehen aus der multipotenten hämatopoetischen Stammzelle hervor",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e403e",
+      "antwortText" : "Milz, Leber und KM sind keine Speicherorgane für Eisen",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e403f",
+      "antwortText" : "im Körper befinden sich 30 - 50 g Eisen",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4040",
+      "antwortText" : "das Gesamteisen wird unterteilt in Funktionseisen und Depoteisen",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4041",
+      "antwortText" : "Eisen ist ein essentielles Spurenelement",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5ac8a188640825042c3e4042",
+      "antwortText" : "aufnahme im Gaster",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4043",
+      "antwortText" : "bei der Hämochromatose nimmt der Körper zu wenig Eisen auf",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4044",
+      "antwortText" : "nicht benötigtes Eisen wird als Transferrin in den Mastzellen gespeichert",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4045",
+      "antwortText" : "Nahrungseisen 3-wertig muss mit Ascorbinsäure (Vitamin C) reduziert werden",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4046",
+      "antwortText" : "ein Anzeichen dafür ist eine gerötete Haut",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4047",
+      "antwortText" : "Hb Männer: 20 g/dl und Frauen: 15 g/dl",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4048",
+      "antwortText" : "Hk Männer: 50 % und Frauen: 40 %",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4049",
+      "antwortText" : "wichtige Laborparameter: MCV, MCH, Retikulozytenzahl und Hämolyseparameter",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e404a",
+      "antwortText" : "Transferrin, Bilirubin, Lactatdehydrogenase",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e404b",
+      "antwortText" : "Haptoglobin, Bilirubin, DHL",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e404c",
+      "antwortText" : "Haptoglobin, LDH, Kreatinin",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e404d",
+      "antwortText" : "Haptoglobin, Bilirubin, LDH",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e404e",
+      "antwortText" : "zu den korpuskulären intravasalen Anämien gehört das Erythrozytenfragmentationssyndrom dazu",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e404f",
+      "antwortText" : "zu den extrakorpuskulären intravasalen Anämien gehören Erythrozytenmembrandefekt und Hb-Synthesedefekt dazu",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4050",
+      "antwortText" : "zu den korpuskulären extravasalen Anämien gehören Enzymdefekte und Membrandefekte dazu",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4051",
+      "antwortText" : "zu den extrakorpuskulören extravasalen Änamien gehören Anämien durch Immunhämolysen und Infektionen dazu",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4052",
+      "antwortText" : "heißt auch Fabismus",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4053",
+      "antwortText" : "ist ein erworbener Enzymdefekt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4054",
+      "antwortText" : "seltenste Enzymkrankheit der Menschen",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5ac8a189640825042c3e4055",
+      "antwortText" : "ist eine hämolytische korpuskuläre intravasale Anämie",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4056",
+      "antwortText" : "ist angeboren",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage35"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4057",
+      "antwortText" : "ein Symptom dafür sind Bauchschmerzen",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage35"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4058",
+      "antwortText" : "typisch ist eine Panzytopenie, also eine Zellzahlerhöhung aller Blutzellen",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage35"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4059",
+      "antwortText" : "einzige Form einer erworbenen korpuskulären hämolytischen Anämie",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage35"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e405a",
+      "antwortText" : "häufigste erworbene hämolytische Anämie",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage36"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e405b",
+      "antwortText" : "Blutbild mit vielen Megalozyten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage36"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e405c",
+      "antwortText" : "ist nicht die einzige Anämie mit MCHC-Erhöhung",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage36"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e405d",
+      "antwortText" : "genetischer Defekt in der Synthese von Zytoskelettelementen der Erythrozyten",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage36"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e405e",
+      "antwortText" : "empfindlich gegenüber Malaria",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage37"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e405f",
+      "antwortText" : "Erythrozyten haben typischweise eine verminderte osmotische Erythrozytenresistenz",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage37"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4060",
+      "antwortText" : "zählt zu den hypochromen mikrozytären Anämien",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage37"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4061",
+      "antwortText" : "genetisch bedingte qualitative Hb-Synthese-Störung",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage37"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4062",
+      "antwortText" : "qualitative Hb-Anomalie",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage38"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4063",
+      "antwortText" : "im Blutbild viele Drepanozyten",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage38"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4064",
+      "antwortText" : "normochrome normozytäre Anämie",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage38"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4065",
+      "antwortText" : "Einteilung nach schwere in Thalassaemia major, minor und minima",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage38"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4066",
+      "antwortText" : "ist eine korpuskuläre intravasale hämolytische Anämie",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage39"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4067",
+      "antwortText" : "Diagnose kann über die Automatenergebnisse gestellt werden",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage39"
+    },
+    {
+      "_id" : "5ac8a18a640825042c3e4068",
+      "antwortText" : "makroangiopathische-hämolytische Anämie und HUS gehören nicht dazu",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage39"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e4069",
+      "antwortText" : "wichtiges Erkennungsmerkmal sind die Fragmentozyten",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage39"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e406a",
+      "antwortText" : "indirekter Coombs weißt erythrozytengebundene Ak nach",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage40"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e406b",
+      "antwortText" : "direkter Coombs weißt freie Ak nach im Serum nach",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage40"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e406c",
+      "antwortText" : "direkter Coombs wird bei 37°C inkubiert",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage40"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e406d",
+      "antwortText" : "indirekter Coombs wird bei Rhesuskompatibilität verwendet",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage40"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e406e",
+      "antwortText" : "indirekter Coombs-Test für IgG positiv",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage41"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e406f",
+      "antwortText" : "ist IgM vermittelt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage41"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e4070",
+      "antwortText" : "AIHA steht für Autoideopathischehämolytische Anämie",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage41"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e4071",
+      "antwortText" : "einteilbar in primäre und sekundären AIHA vom Wärmetyp",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage41"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e4072",
+      "antwortText" : "Aufbewahrung und Transport der Probe bei 39°C",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage42"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e4073",
+      "antwortText" : "ist IgG vermittelt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage42"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e4074",
+      "antwortText" : "der indirekte Coombs ist positiv",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage42"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e4075",
+      "antwortText" : "die Erythrozyten verklumpen rasch und sichtbar nach der Blutabnahme",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage42"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e4076",
+      "antwortText" : "bei renalen Anämien wird TSH bestimmt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage43"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e4077",
+      "antwortText" : "bei hepatischen Anämien wird Kreatin bestimmt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage43"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e4078",
+      "antwortText" : "bei endokrine Anämien wird Transaminase bestimmt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage43"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e4079",
+      "antwortText" : "dazu zählen renale, hepatische und endokrine Anämien",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage43"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e407a",
+      "antwortText" : "die Knochenmarksuntersuchung ist immer nötig",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage44"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e407b",
+      "antwortText" : "seltenste Ursache von Anämien",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage44"
+    },
+    {
+      "_id" : "5ac8a18b640825042c3e407c",
+      "antwortText" : "ist eine normozytäre normochrome Anämie",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage44"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e407d",
+      "antwortText" : "zählt zu den mikrozytären hypochromen Anämien",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage44"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e407e",
+      "antwortText" : "gehört zu den makrozytären hyperchromen Anämien",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage45"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e407f",
+      "antwortText" : "Serumferritin ist erniedrigt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage45"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e4080",
+      "antwortText" : "als Therapie wird Eisen gegeben",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage45"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e4081",
+      "antwortText" : "Serumeisen ist erniedrigt",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage45"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e4082",
+      "antwortText" : "ist eine hyperchrome mikrozytäre Anämie",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage46"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e4083",
+      "antwortText" : "dabei ist das Serumferritin erniedrigt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage46"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e4084",
+      "antwortText" : "Ringsideroblasten sind untypisch für diese Anämie",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage46"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e4085",
+      "antwortText" : "die sideroachrestische Anämie kann angeboren oder erworben sein",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage46"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e4086",
+      "antwortText" : "die Zellen im Knochenmark sind besonderst klein",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage47"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e4087",
+      "antwortText" : "kann nicht durch Morbus Biermer oder Morbus Crohn entstehen",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage47"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e4088",
+      "antwortText" : "entsteht durch Vitamin B32 oder Folursäuremangel",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage47"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e4089",
+      "antwortText" : "MCV und MCH sind erhöht",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage47"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e408a",
+      "antwortText" : "wird vom Körper produziert",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage48"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e408b",
+      "antwortText" : "Vitamin B12 ist unwichtig für den Körper",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage48"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e408c",
+      "antwortText" : "ohne Intrinsic-Factor kann Vitamin B12 besser aufgenommen werden",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage48"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e408d",
+      "antwortText" : "ist ein essentielles Vitamin für die DANN-Synthese",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage48"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e408e",
+      "antwortText" : "häufigste Mikrozytose",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage49"
+    },
+    {
+      "_id" : "5ac8a18c640825042c3e408f",
+      "antwortText" : "MCV sinkt auf bis zu 40 fl",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage49"
+    },
+    {
+      "_id" : "5ac8a18d640825042c3e4090",
+      "antwortText" : "GPT und GOT sind immer erniedrigt",
+      "fach" : "haematologie",
+      "korrekt" : false,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage49"
+    },
+    {
+      "_id" : "5ac8a18d640825042c3e4091",
+      "antwortText" : "gamma-GT ist oft erhöht",
+      "fach" : "haematologie",
+      "korrekt" : true,
+      "kurs" : "unterkurs",
+      "zuordnung" : "Frage49"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-module.exports = function (Models) {
+module.exports = function (db) {
     return {
         getAntworten: getAntworten
     };
@@ -7,12 +7,13 @@ module.exports = function (Models) {
         var query = JSON.parse(req.query.query);
 
         if (query) {
-            Models.antworten
-                .find(query)
-                .lean()
-                .exec(function (err, antworten) {
-                    res.json({status: !err, message: err || '', antworten: antworten});
-                })
+            var antworten = db.get("antworten")
+                .filter(query)
+                .value();
+            if (antworten)
+                res.json({status: true, antworten: antworten});
+            else
+                res.json({status: false, message: "Keine Antworten gefunden"})
         }
         else {
             res.json({status: false, message: 'Parameter "query" wurde nicht korrekt übergeben'});

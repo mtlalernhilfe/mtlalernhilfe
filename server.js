@@ -6,11 +6,15 @@ var app = express();
 var bodyParser = require('body-parser');
 var path = require('path');
 var ports = require('./server/configuration/port');
-mongoose = require('mongoose');
 var colors = require('colors');
 var async = require('async');
-var db = require('./server/configuration/mongo');
-var Models = require('./server/Models/allModels')(mongoose);
+
+var low = require('lowdb');
+var FileSync = require('lowdb/adapters/FileSync');
+var file = new FileSync('db.json');
+var db = low(file);
+
+
 
 /**************************************************************************************************
  * Define Express Middlewares
@@ -35,26 +39,7 @@ app.set('views', __dirname + '/views');
 console.log("##############################################################".green);
 console.log("#  Starte ".green + "mtla-lernhilfe".magenta + " Server".green);
 
-
-var connectToDatabase = function (callback) {
-    console.log("#  Verbinde mit DB .....".green);
-    mongoose.connect(db.prod, function (remoteErr) {
-        if (remoteErr) {
-            console.log('#  Verbindung zu DB'.red, 'fehlgeschlagen.'.red);
-            console.log('#  Server wird beendet.'.red);
-            console.log("##############################################################".red);
-            mongoose.disconnect();
-            process.exit();
-            callback();
-        } else {
-            console.log('#  Verbindung zu DB '.green, 'erfolgreich aufgebaut.'.green);
-            callback();
-        }
-    });
-};
-
 async.waterfall([
-    connectToDatabase
 ], function (err) {
     if (err) {
         console.log("#  SERVERFEHLER: ".red,colors.red(err));
@@ -62,7 +47,7 @@ async.waterfall([
         console.log("##############################################################".red);
         process.exit();
     } else if (process.env.NODE_ENV === 'production') {
-        require('./server/routes/mainRoutes')(app, Models);
+        require('./server/routes/mainRoutes')(app, db);
         app.listen(app.get('port'), function () {
             console.log("app ist listening on port ", app.get('port'))
         })
@@ -73,7 +58,7 @@ async.waterfall([
         });
     } else {
         app.use(express.static('./'));
-        require('./server/routes/mainRoutes')(app, Models);
+        require('./server/routes/mainRoutes')(app, db);
         app.listen(ports.development, '0.0.0.0', function () {
             console.log('#  Server is listening on port'.green, colors.magenta(ports.development));
         });
