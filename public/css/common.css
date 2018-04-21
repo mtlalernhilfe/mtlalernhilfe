@@ -44,7 +44,7 @@ a {
     float: left;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1300px) {
     .antwort_inner {
         width: 48%;
     }
