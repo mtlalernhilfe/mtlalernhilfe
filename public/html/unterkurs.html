@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
 </head>
 <body ng-app="mainApp" ng-controller="fragenCtrl">
-<div ng-if="!fragenModus && !showUebersicht" style="height:100%">
+<div ng-if="!fragenModus && !showUebersicht" class="wrapper">
     <div class="header">
         Unterkurs
     </div>
@@ -36,7 +36,7 @@
         <a href="/" class="backbutton">Zurück</a>
     </button>
 </div>
-<div ng-if="fragenModus && !showUebersicht" style="height:100%">
+<div ng-if="fragenModus && !showUebersicht" class="wrapper">
     <div class="header">
         {{fragenText ? fragenText : "Leider sind hier noch keine Fragen verfügbar"}}
     </div>
@@ -50,7 +50,7 @@
     <button class="btn btn-success button_kachel" ng-click="toggleFragenModus()">Abbrechen</button>
     <button ng-if="showWeiter" class="btn btn-success button_kachel" ng-click="nextFrage()">Weiter</button>
 </div>
-<div ng-if="!fragenModus && showUebersicht" style="height:100%">
+<div ng-if="!fragenModus && showUebersicht" class="wrapper">
     <div class="col-md-12 kachel">
         Richtig beantwortet: {{richtigBeantwortet}}
     </div>
