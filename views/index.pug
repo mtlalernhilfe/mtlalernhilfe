@@ -1,4 +1,33 @@
 head
     script(src="../libs/require.js")
+    script(src="../libs/angular/angular.js")
+    link(rel="stylesheet" href="../libs/cookie/cookieconsent.min.css")
+    script(src="../libs/cookie/cookieconsent.min.js")
+    script.
+        window.addEventListener("load", function () {
+            console.log("test");
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#3c3c3c",
+                        "text": "white"
+                    },
+                    "button": {
+                        "background": "#dd4124",
+                        "text": "white"
+                    }
+                },
+                "theme": "classic",
+                "position": "top",
+                "content": {
+                    "message": "Diese Website verwendet Cookies, um Ihnen die bestmögliche Funktionalität bieten zu können.",
+                    "dismiss": "Ok, verstanden",
+                    "link": "Mehr Infos",
+                    "href": "/html/datenschutz.html"
+                }
+            })
+        });
+
+
 
 include ../html/home.html

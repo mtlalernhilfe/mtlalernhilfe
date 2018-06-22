@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
-
+    <script src="../libs/angular/angular.js"></script>
     <link rel="stylesheet" type="text/css" href="../css/common.css">
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="../libs/cookie/cookieconsent.min.css"/>
+    <script src="../libs/cookie/cookieconsent.min.js"></script>
 </head>
 <body ng-app="mainApp" ng-controller="fragenCtrl">
 <div ng-if="!fragenModus && !showUebersicht" class="wrapper">
@@ -64,5 +65,31 @@
     <button class="btn btn-success button_back" ng-click="showHome()">Fertig</button>
 </div>
 <script type="text/javascript" src="../js/fragenCtrl.js"></script>
+<script>
+    window.addEventListener("load", function () {
+        console.log("test");
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#3c3c3c",
+                    "text": "white"
+                },
+                "button": {
+                    "background": "#dd4124",
+                    "text": "white"
+                }
+            },
+            "theme": "classic",
+            "position": "top",
+            "content": {
+                "message": "Diese Website verwendet Cookies, um Ihnen die bestmögliche Funktionalität bieten zu können.",
+                "dismiss": "Ok, verstanden",
+                "link": "Mehr Infos",
+                "href": "/html/datenschutz.html"
+            }
+        })
+    });
+</script>
 </body>
+<div style="position: absolute; bottom: 0; left: 0; right: 0;"><a href="/html/datenschutz.html">Datenschutz</a></div>
 </html>
