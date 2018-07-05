@@ -1274,7 +1274,386 @@
       "frage" : "Welche aussage ist falsch? Der ELISA…",
       "kurs" : "unterkurs",
       "zuordnung" : "Frage35"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108ea8",
+      "fach" : "mikrobio",
+      "frage" : "Welche Aussage zu HSV trifft am ehesten zu?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108ea9",
+      "fach" : "mikrobio",
+      "frage" : "Orden sie dem Human-Herpes-Virus 4 die am wahrscheinlichsten durch dieses Virus verursachte Erkrankung zu.",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5b3e42a59b87ee05a8108eae",
+      "fach" : "mikrobio",
+      "frage" : "Welche Candida-Art ist als Erreger von nosokomialen Infektionsausbrüchen bekannt geworden?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5b3e42a59b87ee05a8108eaf",
+      "fach" : "mikrobio",
+      "frage" : "Welche der folgenden Sprosspilz-Arten ist zur Ausbildung einer Polysaccharid-Kapsel befähigt?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e75",
+      "fach" : "mikrobio",
+      "frage" : "Welche Aufgabe hat das M-Protein der Streptokokken?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e76",
+      "fach" : "mikrobio",
+      "frage" : "Welche Streptokokken sind für die Erkrankung Scharlach verantwortlich?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e77",
+      "fach" : "mikrobio",
+      "frage" : "Der CAMP-Test ist ein Nachweis von B-Streptokokken. Doch wodurch zeigt sich der Test als positiv?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e78",
+      "fach" : "mikrobio",
+      "frage" : "Welche der folgenen Endokarditis wird spezifisch vom Staph. aureus verursacht?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e79",
+      "fach" : "mikrobio",
+      "frage" : "Enterokokken besitzen die Fähigkeit zur Konjugation. Was ist hierbei so gefährlich?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e7a",
+      "fach" : "mikrobio",
+      "frage" : "Wieso erschweren VRE (Vancomycin-resistente-Enterokokken) die Stationsarbeiten?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e7b",
+      "fach" : "mikrobio",
+      "frage" : "Welches Enzym bildet der E. coli und für was ist dies verantwortlich?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e7c",
+      "fach" : "mikrobio",
+      "frage" : "Klebiella pneumoniae zeigt welche Eigenschaft zur diagnostischen Identifizierung?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e7d",
+      "fach" : "mikrobio",
+      "frage" : "Sie sehen auf einer Blutblatte einen schleimig grauen Keim. Bei näherer Begutachtung fällt Ihnen auf, dass der ganze Nährboden mit dem Keim bewachsen ist. Welcher der folgenden Keime passt hierauf am besten?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e7e",
+      "fach" : "mikrobio",
+      "frage" : "Was bewirkt das Choleratoxin?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e7f",
+      "fach" : "mikrobio",
+      "frage" : "Die Prophylaxe von Legionellen sieht wie folgt aus:",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e80",
+      "fach" : "mikrobio",
+      "frage" : "Welches Symptom zeigt wahrscheinlicher eine Cholera?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e81",
+      "fach" : "mikrobio",
+      "frage" : "Welche Ursache betrifft die Magenbeschwerden bei einer Helicobacter pylori Infektion?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e82",
+      "fach" : "mikrobio",
+      "frage" : "Bei einem Kind wird eine Meningitis festgestellt. Um das passende Antibiotikum zu verabreichen, versuchen Sie den Keim auf Blutagar anzuzüchten - Vergebens. Was würden Sie als nächstes tun?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e83",
+      "fach" : "mikrobio",
+      "frage" : "In welchem Stadium ist Keuchhusten höchst ansteckend?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e84",
+      "fach" : "mikrobio",
+      "frage" : "Welche Impfung passt zum Keuchhusten?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e85",
+      "fach" : "mikrobio",
+      "frage" : "Was unterscheidet sich in der Diagnostik von Lepra und Tuberkulose?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e86",
+      "fach" : "mikrobio",
+      "frage" : "Was ist mit latenten Tuberkulose zu verstehen?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e87",
+      "fach" : "mikrobio",
+      "frage" : "Was bezeichnet die sekundäre Tuberkulose?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5b3e41fc9b87ee05a8108e88",
+      "fach" : "mikrobio",
+      "frage" : "Nach einer aeroben Anzucht und anschließender Färbung des Keims, sehen Sie unter dem Mikroskop ein grampositives Stäbchen mit einer mittelständiger Endospore. Welcher Keim sehen Sie dort?",
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5b3e42a39b87ee05a8108e8e",
+      "fach" : "mikrobio",
+      "frage" : "Welches Antibiotikum greift in der Zellwandsynthese?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5b3e42a39b87ee05a8108e8f",
+      "fach" : "mikrobio",
+      "frage" : "Welches Antibiotikum wirkt nicht bakterizid?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5b3e42a39b87ee05a8108e90",
+      "fach" : "mikrobio",
+      "frage" : "Was trifft zu dem Begriff bakterizid zu?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5b3e42a39b87ee05a8108e91",
+      "fach" : "mikrobio",
+      "frage" : "Was ist Antimykotikum",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5b3e42a39b87ee05a8108e92",
+      "fach" : "mikrobio",
+      "frage" : "Welche Bakteiren sing gegenüber Beta-Lactam-Antibiotika generell unempfindlich?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5b3e42a39b87ee05a8108e93",
+      "fach" : "mikrobio",
+      "frage" : "Glykopeptide wirken gegen?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5b3e42a39b87ee05a8108e94",
+      "fach" : "mikrobio",
+      "frage" : "Welches Antibiotikum gehört nicht zu den Beta-Lactam-Antibiotika?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108e95",
+      "fach" : "mikrobio",
+      "frage" : "Welches Antibiotikum wirkt bakterizid?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108e96",
+      "fach" : "mikrobio",
+      "frage" : "Aminoglykoside sind prinzipiell unwirksaam gegen?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108e97",
+      "fach" : "mikrobio",
+      "frage" : "Welche Antibiotika-Kombination wird synergistich gegen Strepokokken?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108e98",
+      "fach" : "mikrobio",
+      "frage" : "Gegen welche Erreger wirkt Metronidazol nicht?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108e99",
+      "fach" : "mikrobio",
+      "frage" : "Welches Antibiotikum interagiert mit der DNA - Synthese?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108e9a",
+      "fach" : "mikrobio",
+      "frage" : "Polymyxin/Colistin wirkt gegen welche Erreger?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108e9b",
+      "fach" : "mikrobio",
+      "frage" : "Welches Verfahren der Resistenztestung ermöglicht keine Bestimmung einer MHK?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108e9c",
+      "fach" : "mikrobio",
+      "frage" : "Welches Verfahren der Resistenztestung wird im allgemeinen nicht im Routine-Labor eingesetzt?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108e9d",
+      "fach" : "mikrobio",
+      "frage" : "Welches Verfahren der Resistenztestung erlaubt die Bestimmung einer MBK?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108e9e",
+      "fach" : "mikrobio",
+      "frage" : "Die High-Level-Aminoglykosid-Resistenz von Enterokokken beruht auf welchem Resistenzmechanismus?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108e9f",
+      "fach" : "mikrobio",
+      "frage" : "Welches der folgenden Beta-Lactam-Antibiotika ist stabil gegen Spectrum Beta-Lactamase (ESBL)?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108ea0",
+      "fach" : "mikrobio",
+      "frage" : "Welches Verfahren dient dem unspezifischem Nachweis einer Carbapenemase?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108ea1",
+      "fach" : "mikrobio",
+      "frage" : "Welches Hauptkriterium dient nicht zur Klassifizierung von Viren?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108ea2",
+      "fach" : "mikrobio",
+      "frage" : "Was gehört nicht zum viralen Lebenszyklus?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108ea3",
+      "fach" : "mikrobio",
+      "frage" : "Welches Aussage zu Viren ist falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108ea4",
+      "fach" : "mikrobio",
+      "frage" : "Einige Viren verfügen über die Fähigkeit über längere Zeit in Zellen zu peristieren, ohne neue Viruspartikel zu produzieren. Welcher der folgenden Begriffe beschreibt diese Fähigkeit am ehesten?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage23"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108ea5",
+      "fach" : "mikrobio",
+      "frage" : "Welche Aussage zur Polymerase-Kettenreaktion (PCR) trifft am ehesten zu?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108ea6",
+      "fach" : "mikrobio",
+      "frage" : "Welche Aussage zur Familie der Retroviridae ist richtig?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108ea7",
+      "fach" : "mikrobio",
+      "frage" : "Welches der genannten Kriterien zur Beurteilung der Güte eines diagnostischen Tests zur Früherkennung von Krankheiten (z.B.: einer HIV-Infektion)",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108eaa",
+      "fach" : "mikrobio",
+      "frage" : "Welche Aussage zu Herpesviren ist am ehesten falsch?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108eab",
+      "fach" : "mikrobio",
+      "frage" : "Pilze unterscheiden sich in ihrem Aufbau von Bakterien. Welche der folgenden Strukturen besitzen Pilze nicht",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5b3e42a49b87ee05a8108eac",
+      "fach" : "mikrobio",
+      "frage" : "Das Antimykotikum Fluconalzol gehört zu welcher Substanzgruppe?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5b3e42a59b87ee05a8108ead",
+      "fach" : "mikrobio",
+      "frage" : "Welche der folgenden Candia-Arten bildet auf Reis-Agar keine Pseudomyzelien aus?",
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage32"
     }
+
   ],
   "antworten": [
     {
@@ -7069,6 +7448,1734 @@
       "korrekt": true,
       "kurs": "unterkurs",
       "zuordnung": "Frage35"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb227",
+      "antwortText" : "Chinolone",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb228",
+      "antwortText" : "Aminoglykoside",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb229",
+      "antwortText" : "Lipopeptide",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb22a",
+      "antwortText" : "Beta-Lactame",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb22b",
+      "antwortText" : "Streptogramine",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb232",
+      "antwortText" : "irreversible Störung der Zellfunktion",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb237",
+      "antwortText" : "Staphylokokken",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2b7",
+      "antwortText" : "Hemmung der Opsonierung",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2b8",
+      "antwortText" : "Besitzen nur Staphylokokken",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2b9",
+      "antwortText" : "Schutz vor Phagozytose",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2ba",
+      "antwortText" : "Alpha-Hämolysierende Streptokokken",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2bb",
+      "antwortText" : "Gamma-Hämolysierende Streptokokken",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2bd",
+      "antwortText" : "Beta-Hämolysierende Streptokokken",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2be",
+      "antwortText" : "Keilförmige Aufhellung mit Spitze zum Staph. aureus (Durch Protein A)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2bf",
+      "antwortText" : "Keilförmige Aufhellung mit Spitze zu den B-Streptokokken (Durch Protein A)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2c0",
+      "antwortText" : "Keilförmige Aufhellung mit Spitze zu den B-Streptokokken (Durch Protein B)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2c1",
+      "antwortText" : "Keilförmige Aufhellung mit Spitze zum Staph. aureus (Durch Protein B)",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2c2",
+      "antwortText" : "Prothesen-Endokarditis",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2c3",
+      "antwortText" : "Endokarditis bei Drogenmissbrauch",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2c4",
+      "antwortText" : "Subakute Endokarditis",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2c5",
+      "antwortText" : "Akute Endokarditis",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2c6",
+      "antwortText" : "Gezieltes Abwehren des menschlichen Immunsystems",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2c8",
+      "antwortText" : "Ist sogar hilfreich, da die Konjugation die Wirkung der Antibiotika verstärkt",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2c9",
+      "antwortText" : "Resistenzvermehrung",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2ca",
+      "antwortText" : "Da Enterokokken sich im Nasen-Rachen-Raum zurückziehen und somit leicht aerosol übertragen werden",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2cc",
+      "antwortText" : "es existieren keine Vancomycin-resistente-Enterokken nur Fosfomycin-resistente-Enterokokken (FRE)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2cd",
+      "antwortText" : "Da Enterokokken Bestandteil der Darmflora sind und hier das Desinfektionsmittel nicht eingesetzt wird",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb22c",
+      "antwortText" : "Aminoglykoside",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb22d",
+      "antwortText" : "Rifampicin",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb22e",
+      "antwortText" : "Tetrazykline",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb22f",
+      "antwortText" : "Hemmung der Zellvermehrung",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb230",
+      "antwortText" : "keine Keimreduktion",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb231",
+      "antwortText" : "Oxazolidione wirken bakterizid",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage3"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb233",
+      "antwortText" : "ein Wirkstoff gegen Bakterien",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb234",
+      "antwortText" : "ein Wirkstoff gegen Viren",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb235",
+      "antwortText" : "ein Wirkstoff gegen Protozoen",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb236",
+      "antwortText" : "ein Wirkstoff gegen Pilze",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage4"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb238",
+      "antwortText" : "Borrelien",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb239",
+      "antwortText" : "Neisserien",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb23a",
+      "antwortText" : "Mykoplasmen",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb23b",
+      "antwortText" : "E.coli",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb23c",
+      "antwortText" : "Mycoplasma pneumoniae",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb23d",
+      "antwortText" : "Neisseria meningitidis",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb23e",
+      "antwortText" : "Staphylococcus aureus",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5b3e3fc79b87ee052d1eb23f",
+      "antwortText" : "Carbapeneme",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb240",
+      "antwortText" : "Penicilline",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb241",
+      "antwortText" : "Monobaktame",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb242",
+      "antwortText" : "Glykopeptide",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb243",
+      "antwortText" : "Makrolide",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb244",
+      "antwortText" : "Oxazolidinon",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb245",
+      "antwortText" : "Tetrazykline",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb246",
+      "antwortText" : "Aminoglykosid",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb247",
+      "antwortText" : "Staphylokokken",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb248",
+      "antwortText" : "Pseudomonaden",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb249",
+      "antwortText" : "Enterobacteriaceae",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2b6",
+      "antwortText" : "Schutz vor Antibiotikamechanismen",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage1"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2bc",
+      "antwortText" : "Delta-Hämolysierende Streptokokken",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage2"
+    },
+    {
+      "_id" : "5b3e405d9b87ee052d1eb2c7",
+      "antwortText" : "Schnelles Wachstum",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage5"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2cb",
+      "antwortText" : "Da Enterokokken Sporenbildner sind",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage6"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2ce",
+      "antwortText" : "EBLS, Resistenzbildung gegenüber Triazole",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2cf",
+      "antwortText" : "ESBN, Kulturmorpgologische Unterscheidung (Gallensalzausfällung)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2d0",
+      "antwortText" : "ELBS, bilden Lactobetamasen (Zuckerabbau in der Bunten Reihe)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2d1",
+      "antwortText" : "ESBL, Resistenzbildung gegenüber Betalaktame",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage7"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2d2",
+      "antwortText" : "Rückalkalisierung",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2d3",
+      "antwortText" : "Grünes Pikment am Kolonierand",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2ea",
+      "antwortText" : "Sie fordern neues Untersuchungsmaterial an",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2eb",
+      "antwortText" : "Sie zweifeln an Ihrer eigenen Kompetenz und züchten erneut auf Blutagar an",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2ec",
+      "antwortText" : "Sie fordern eine PCR an, da die Meningitis auf alle Fälle viral bedingt sein muss",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2ed",
+      "antwortText" : "Sie streichen den Keim auf einer Kochblutblatte aus",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2ee",
+      "antwortText" : "2. Stadium (Stadium catarrhale)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2ef",
+      "antwortText" : "2. Stadium (Stadium convolsirum)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2f0",
+      "antwortText" : "3. Stadium (Stadium decrementi)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2f1",
+      "antwortText" : "1. Stadium (Stadium catarrhale)",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2f2",
+      "antwortText" : "Azellulärer Impfstoff mit Pertussistoxin",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2f3",
+      "antwortText" : "Zellulärer Impfstoff mit zusätzlichem inaktivierten filamentösen Hämagglutinin",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2f4",
+      "antwortText" : "Es existiert kein Impfstoff",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2f5",
+      "antwortText" : "Azellulärer Impfstoff mit inaktiviertem Toxin und inaktivierten Hämagglutinin",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2f6",
+      "antwortText" : "Mycobacterium tuberculosis ist im Gegensatz zu M. leprae säurefest",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2f7",
+      "antwortText" : "Für beide Erreger exestieren keine Impfungen",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2f8",
+      "antwortText" : "Die Anzucht der beiden Erreger ist durch Lange Wachstumszeiten gekennzeichnet",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb2f9",
+      "antwortText" : "M. leprae ist im Gegensatz zu m. tuberculosis nicht auf künstlichen Nährböden anzüchtbar",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb2fa",
+      "antwortText" : "Die Vernarbung der Granulome und somit die Eliminierung des Erregers",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb2fb",
+      "antwortText" : "Eine im Endstadium befindente Tuberkulose",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb2fc",
+      "antwortText" : "Das Primärstadium einer Tuberkulose, hier hoch Ansteckend",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb2fd",
+      "antwortText" : "Eine Tuberkulose, die bei Abwährschwäche wieder ausbrechen kann",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb2fe",
+      "antwortText" : "Die Zweitinfektion von Tuberkulose",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb2ff",
+      "antwortText" : "Die Infektion der Lunge und somit der geschlossenen Tuberkulose",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb300",
+      "antwortText" : "Die Infektion der Lunge und somit der offenen Tuberkulose",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb301",
+      "antwortText" : "Eine rezidive Tuberkulose",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb302",
+      "antwortText" : "Clostridium perfringes",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb303",
+      "antwortText" : "Clostridium difficile",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb304",
+      "antwortText" : "Bacillus cereus",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5b3e40609b87ee052d1eb305",
+      "antwortText" : "Bacillus anthracis",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb24a",
+      "antwortText" : "Streptokokken",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb24b",
+      "antwortText" : "Aminoglykosid + Penicillin",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb24c",
+      "antwortText" : "Makrolid + Glykopeptid",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb24d",
+      "antwortText" : "Tetracyclin + Makrolid",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb24e",
+      "antwortText" : "Aminoglykosid + Penicillin",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb24f",
+      "antwortText" : "Bacteroides fragilis",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb250",
+      "antwortText" : "Helicobacter pylori",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb251",
+      "antwortText" : "Protozoen",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb252",
+      "antwortText" : "E.coli",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb253",
+      "antwortText" : "Aminoglykoside",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb254",
+      "antwortText" : "Chinolone",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb255",
+      "antwortText" : "Beta-Lactame",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb256",
+      "antwortText" : "Makrolide",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5b3e3fc89b87ee052d1eb257",
+      "antwortText" : "Staphylococcus aureus",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb258",
+      "antwortText" : "Clostridium pefringens",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb259",
+      "antwortText" : "Listeria monocytogenes",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb25a",
+      "antwortText" : "E.coli",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb25b",
+      "antwortText" : "Bouillondilution",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb25c",
+      "antwortText" : "Mikrobouilliondilution",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb25d",
+      "antwortText" : "E-Test",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb25e",
+      "antwortText" : "Agardiffusion",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage14"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb25f",
+      "antwortText" : "Agardiffusion",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb260",
+      "antwortText" : "Resistenztestung im Automaten",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb261",
+      "antwortText" : "E-Test",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb262",
+      "antwortText" : "Agardilution",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage15"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb263",
+      "antwortText" : "Resistenztestung im Automaten",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb264",
+      "antwortText" : "E-Test",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb265",
+      "antwortText" : "Agardilution",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb266",
+      "antwortText" : "Bouillondilution",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage16"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb267",
+      "antwortText" : "Veränderung des Angriffpunktes des Antibiotikums",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb268",
+      "antwortText" : "Aktiver Einfluss des Antibiotikum aus der Bakterienzelle",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb269",
+      "antwortText" : "Verminderte Aufnahme des Antibiotikums in die Bakterienzelle",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb26a",
+      "antwortText" : "Modifikation des Antibiotikums durch bakterielle Produkte",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage17"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb26b",
+      "antwortText" : "Ampicillin",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb26c",
+      "antwortText" : "Cefotaxim",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb26d",
+      "antwortText" : "Cefuroxim",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb26e",
+      "antwortText" : "Imipenem",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage18"
+    },
+    {
+      "_id" : "5b3e3fc99b87ee052d1eb26f",
+      "antwortText" : "Nitrocefin-Test",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb270",
+      "antwortText" : "PBP2a-Test",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb271",
+      "antwortText" : "D-Test zur Resistenzinduktion",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb272",
+      "antwortText" : "Hodge-Test",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage19"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb273",
+      "antwortText" : "Art der Nukleinsäure (DNA od. RNA)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb274",
+      "antwortText" : "Größe des Genoms",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb275",
+      "antwortText" : "Anzahl der Kapsomere",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb276",
+      "antwortText" : "Überlebenszeit außerhalb eines Wirtes",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage20"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb277",
+      "antwortText" : "Zelleintritt",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb278",
+      "antwortText" : "Uncoating",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb279",
+      "antwortText" : "\"Replikation\"",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb27a",
+      "antwortText" : "Auflösen der Virushülle",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage21"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb27b",
+      "antwortText" : "behüllte Viren besitzen eine geringere Tenazität als unbehüllte viren",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb27c",
+      "antwortText" : "Die Proteinhülle, welche die virale Nukleinsäuren umgibt, wird als Kapsid bezeichnet",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb27d",
+      "antwortText" : "In der Taxonomie der Viren spielt unter anderem die Art der Nukleinsäure eine Rolle",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb27e",
+      "antwortText" : "behüllte Viren sind im Vergleich zu unbehüllten Viren zur Lipidsynthese fähig",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage22"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb27f",
+      "antwortText" : "Tenazität",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage23"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb280",
+      "antwortText" : "Penetration",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage23"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb281",
+      "antwortText" : "Replikation",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage23"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb282",
+      "antwortText" : "Latenz",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage23"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb283",
+      "antwortText" : "die in der PCR eingesetzte Taq-Polymerase ist eine hitzelabile DNA - Polymerase",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb284",
+      "antwortText" : "mit Hilfe der PCR lässt sich ausschließlih virale DNA nachweisen",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb285",
+      "antwortText" : "die Real-Time-PCR ist eine qualitative PCR-Methode",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb286",
+      "antwortText" : "die verwendeten Oligonukleotidprimer flankieren den zu amplifizierenden DNA-Abschnitt",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage24"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb287",
+      "antwortText" : "Spezifität",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5b3e3fca9b87ee052d1eb288",
+      "antwortText" : "Regression",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb28a",
+      "antwortText" : "Sensitivität",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb28b",
+      "antwortText" : "positiver prädiktiver Wert",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage25"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb28c",
+      "antwortText" : "Protease-Inhibitor",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb28d",
+      "antwortText" : "nicht-nukleosidische Reverse-Transkriptase-Hemmer",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb28e",
+      "antwortText" : "Korezeptor-Antagonisten",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb28f",
+      "antwortText" : "Folsäure-Antagonisten",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage26"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb290",
+      "antwortText" : "HSV-1 du HSV-2 gehören zur Familie der Retroviren",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb291",
+      "antwortText" : "HSV-2 ist der Erreger des Herpes zoster",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb292",
+      "antwortText" : "HSV gehören zur Gruppe der Gamma-Herpesviren",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb293",
+      "antwortText" : "der Herpes labialis ist die Rezidivinfektion des HSV-1",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage27"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb294",
+      "antwortText" : "Herpes zoster",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb295",
+      "antwortText" : "Herpes genitalis",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb296",
+      "antwortText" : "Zytomegalie",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb297",
+      "antwortText" : "infektiöse Mononukleose",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage28"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb298",
+      "antwortText" : "das Genom der Herpesviren ist eine doppelstränige DNA -",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb299",
+      "antwortText" : "bei Viren aus der Familie Herpesviridae handelt es sich um behüllte Viren",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb29a",
+      "antwortText" : "die Herpesviren verfügen über die Fähigkeit intrazellulär zu peristieren",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb29b",
+      "antwortText" : "die Replikation erfolgt mit Hilfe einer viruseigenen reversen Transkriptase",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage29"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb29c",
+      "antwortText" : "Zellkern",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb29d",
+      "antwortText" : "Ribosomen",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb29e",
+      "antwortText" : "Mitochondrien",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb29f",
+      "antwortText" : "Murein in der Zellwand",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage30"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb2a0",
+      "antwortText" : "Polyene",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5b3e3fcb9b87ee052d1eb2a1",
+      "antwortText" : "Echinocandine",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2a2",
+      "antwortText" : "Pyrimidine",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2a3",
+      "antwortText" : "Triazole",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage31"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2a4",
+      "antwortText" : "C. albicans",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2a6",
+      "antwortText" : "C. krusei",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2a7",
+      "antwortText" : "C. parapsilosis",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2a8",
+      "antwortText" : "C. glabrata",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage32"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2a9",
+      "antwortText" : "C. albicans",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2aa",
+      "antwortText" : "C. dubliniensis",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2ab",
+      "antwortText" : "C. tropicalis",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2ac",
+      "antwortText" : "C. auris",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage33"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2ad",
+      "antwortText" : "C. albicans",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2ae",
+      "antwortText" : "Saccharomyces cerevisiae",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2af",
+      "antwortText" : "Rhodotorula mucilagninosa",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5b3e3fcc9b87ee052d1eb2b0",
+      "antwortText" : "Cryptococcus neoformans",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "oberkurs",
+      "zuordnung" : "Frage34"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2d4",
+      "antwortText" : "Karamellartiger Geruch",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2d5",
+      "antwortText" : "Schleimige Kolonien (Durch Schleimkapsel)",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage8"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2d6",
+      "antwortText" : "Shigellen",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2d7",
+      "antwortText" : "Pseudomonas aeruginosa",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2d8",
+      "antwortText" : "Enterobacter",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2d9",
+      "antwortText" : "Proteus",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage9"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2da",
+      "antwortText" : "Invasion der Erreger in die Enterozyten",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2db",
+      "antwortText" : "Ermöglicht Einströmen von Wasser in die Enterozyten (Zellen platzen)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2dc",
+      "antwortText" : "Durch das Toxin verkrampft sich die Lamina muscularis (CAVE: Darmperforation)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2dd",
+      "antwortText" : "Eine Intoxikation, die bis zur Exikose führen kann",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage10"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2de",
+      "antwortText" : "Mundschutz (Gefährliche Tröpfcheninfektion)",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2df",
+      "antwortText" : "Gemüse gut mit Wasser abwaschen",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5b3e405e9b87ee052d1eb2e0",
+      "antwortText" : "Fleisch gut mit Wasser abwischen",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2e1",
+      "antwortText" : "Wartung von Wasser- und Entlüftungsanlagen",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage11"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2e2",
+      "antwortText" : "Blutiger Durchfall",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2e3",
+      "antwortText" : "Harter Teerstuhl",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2e4",
+      "antwortText" : "Keine Auffälligkeiten im Stuhl",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2e5",
+      "antwortText" : "Starke reiswasser Durchfälle",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage12"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2e6",
+      "antwortText" : "Alkalisierung des Magensaftes",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2e7",
+      "antwortText" : "Versäuerung des Magensaftes",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2e8",
+      "antwortText" : "Neutralisation des Magensaftes",
+      "fach" : "mikrobio",
+      "korrekt" : false,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage13"
+    },
+    {
+      "_id" : "5b3e405f9b87ee052d1eb2e9",
+      "antwortText" : "Zerstörung der kompletten Schleimhaut im Magen",
+      "fach" : "mikrobio",
+      "korrekt" : true,
+      "kurs" : "mittelkurs",
+      "zuordnung" : "Frage13"
     }
   ]
 }
